@@ -1,0 +1,24 @@
+name: Fetch feeds
+on:
+  schedule:
+    - cron: "30 23 * * *"   # 05:00 IST, half an hour before the Claude routine
+  workflow_dispatch: {}
+permissions:
+  contents: write
+concurrency: { group: ingest, cancel-in-progress: false }
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - run: python3 scripts/ingest.py --out data/inbox/candidates.json
+      - name: Save
+        run: |
+          git config user.name "So What? bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/inbox
+          git diff --cached --quiet && exit 0
+          git commit -m "Feeds $(date -u +%F)"
+          git pull --rebase origin main
+          git push origin HEAD:main
