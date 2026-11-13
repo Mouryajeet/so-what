@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 """So What? step 1: fetch every feed in sources.json, clean, de-duplicate, keep the last 72 h,
 drop anything already published, and write work/candidates.json for Claude to score.
-Standard library only. Usage: python3 scripts/ingest.py"""
-import json, re, html, hashlib, datetime, email.utils, urllib.request, xml.etree.ElementTree as ET
+Standard library only. Usage: python3 scripts/ingest.py [--out path]   (GitHub Actions uses --out data/inbox/candidates.json)"""
+import json, re, sys, html, hashlib, datetime, email.utils, urllib.request, xml.etree.ElementTree as ET
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -84,9 +84,11 @@ def main():
         per[x["source"]] = per.get(x["source"], 0) + 1
         if per[x["source"]] <= cfg.get("max_per_source", 12): capped.append(x)
     out = capped[: cfg["max_candidates"]]
-    (ROOT / "work").mkdir(exist_ok=True)
-    (ROOT / "work" / "candidates.json").write_text(json.dumps({"generated": NOW.isoformat(), "count": len(out), "items": out}, ensure_ascii=False, indent=1))
-    (ROOT / "work" / "ingest-log.json").write_text(json.dumps(log, indent=1))
+    dest = Path(sys.argv[sys.argv.index("--out") + 1]) if "--out" in sys.argv else ROOT / "work" / "candidates.json"
+    dest = dest if dest.is_absolute() else ROOT / dest
+    dest.parent.mkdir(parents=True, exist_ok=True)
+    dest.write_text(json.dumps({"generated": NOW.isoformat(), "count": len(out), "items": out}, ensure_ascii=False, indent=1))
+    (dest.parent / "ingest-log.json").write_text(json.dumps(log, indent=1))
     ok = sum(1 for l in log if l["ok"])
     print(f"ingest: {len(out)} candidates from {ok}/{len(log)} feeds")
     for l in log:

@@ -1,7 +1,7 @@
 #!/bin/bash
 # So What? → brandmizer.com. Run hourly by Hostinger cron. Copies site/<path>/ from the GitHub repo's main branch
 # into public_html/<path>/, only if the new copy looks right. The old copy is kept one step back for rollback.
-REPO="${SOWHAT_REPO:-OWNER/so-what}"   # set to the real GitHub repo, e.g. mourya/so-what
+REPO="${SOWHAT_REPO:-Mouryajeet/so-what}"
 DEST="$HOME/domains/brandmizer.com/public_html"
 LOG="$HOME/so-what-sync.log"
 TMP=$(mktemp -d) || exit 1

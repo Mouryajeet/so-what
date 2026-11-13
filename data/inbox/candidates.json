@@ -1,0 +1,456 @@
+{
+ "generated": "2026-11-13T01:06:19.992364+00:00",
+ "count": 45,
+ "items": [
+  {
+   "id": "d3eed08b58fd",
+   "source": "YourStory",
+   "region": "india",
+   "weight": 1,
+   "title": "Startup news and updates: daily roundup (November 12, 2026)",
+   "url": "https://yourstory.com/2026/11/startup-news-and-updates-daily-roundup-november-12-2026",
+   "date": "2026-11-12T09:49:57+00:00",
+   "excerpt": "YourStory presents the daily news roundup from the Indian startup ecosystem and beyond. Here's the roundup for Thursday, November 12, 2026."
+  },
+  {
+   "id": "40ea709ea5eb",
+   "source": "YourStory",
+   "region": "india",
+   "weight": 1,
+   "title": "From multi-lingual AI agents to the future of voice: Google Cloud’s Naren Kachroo at TechSparks 2026",
+   "url": "https://yourstory.com/2026/11/from-multi-lingual-ai-agents-to-the-future-of-voice-google-clouds-naren-kachroo-at-techsparks-2026",
+   "date": "2026-11-12T08:48:57+00:00",
+   "excerpt": "At TechSparks 2026, Google Cloud’s Head of Sales & GTM AI showcased Gemini 3.8 Live and Live Avatar, and showed an AI sales agent negotiating…"
+  },
+  {
+   "id": "6c891a5f27b5",
+   "source": "afaqs",
+   "region": "india",
+   "weight": 2,
+   "title": "Akhilendra Kumar appointed CEO of Unacademy",
+   "url": "https://www.afaqs.com/people-spotting/akhilendra-kumar-appointed-ceo-of-unacademy-12803145",
+   "date": "2026-11-12T07:42:10+00:00",
+   "excerpt": "Unacademy has appointed Akhilendra Kumar as its chief executive officer (CEO), with co-founder Gaurav Munjal moving to the role of executive chairman. Kumar was previously…"
+  },
+  {
+   "id": "402e9bf7e2fd",
+   "source": "Inc42",
+   "region": "india",
+   "weight": 1,
+   "title": "CCPA Fines Ola ₹10 Lakh For Advance Tipping Prompts",
+   "url": "https://inc42.com/buzz/ccpa-fines-ola-%e2%82%b910-lakh-for-advance-tipping-prompts/",
+   "date": "2026-11-12T07:38:40+00:00",
+   "excerpt": "The Central Consumer Protection Authority (CCPA) has imposed a penalty of ₹10 Lakh on ANI Technologies Pvt Ltd, parent of…"
+  },
+  {
+   "id": "50253c0aa198",
+   "source": "YourStory",
+   "region": "india",
+   "weight": 1,
+   "title": "ValueQuest commits Rs 775 Cr to advance India’s defence, manufacturing push",
+   "url": "https://yourstory.com/2026/11/valuequest-commits-rs-775-cr-to-advance-indias-defence-manufacturing-push",
+   "date": "2026-11-12T07:37:10+00:00",
+   "excerpt": "The Mumbai-based investment manager is backing three businesses operating in the areas of defence tech, precision engineering, and power infrastructure: Sagar Defence Engineering, TASE Global,…"
+  },
+  {
+   "id": "c425ee238ca5",
+   "source": "afaqs",
+   "region": "india",
+   "weight": 2,
+   "title": "Himalaya BabyCare highlights moisturising care in new soap campaign",
+   "url": "https://www.afaqs.com/news/advertising/himalaya-babycare-highlights-moisturising-care-in-new-soap-campaign-12803086",
+   "date": "2026-11-12T07:04:00+00:00",
+   "excerpt": "Himalaya BabyCare has launched a campaign for its Extra Moisturising Baby Soap, focusing on the role of moisturising care in babies' daily bathing routines, particularly…"
+  },
+  {
+   "id": "da61addd87ef",
+   "source": "afaqs",
+   "region": "india",
+   "weight": 2,
+   "title": "Suryakumar Yadav joins Wobble as brand ambassador",
+   "url": "https://www.afaqs.com/news/mktg/suryakumar-yadav-joins-wobble-as-brand-ambassador-12803013",
+   "date": "2026-11-12T06:35:39+00:00",
+   "excerpt": "Wobble Smartphones has appointed cricketer Suryakumar Yadav as its brand ambassador ahead of the launch of its upcoming smartphone, Wobble Speed 5G. The association will…"
+  },
+  {
+   "id": "2cfbeee14f85",
+   "source": "YourStory",
+   "region": "india",
+   "weight": 1,
+   "title": "‘What we have done is not enough’: Lenskart CEO a year after IPO",
+   "url": "https://yourstory.com/2026/11/what-we-have-done-is-not-enough-lenskart-ceo-a-year-after-ipo",
+   "date": "2026-11-12T06:26:47+00:00",
+   "excerpt": "One year after Lenskart’s public listing, CEO Peyush Bansal scrapped blue-light lens upsells and pledged free glasses to 100,000 children to target India’s widespread vision…"
+  },
+  {
+   "id": "a0e2f968ffde",
+   "source": "YourStory",
+   "region": "india",
+   "weight": 1,
+   "title": "Gemini in action: How voice, agents, and coding tools are changing the way businesses use AI",
+   "url": "https://yourstory.com/2026/11/gemini-in-action-how-voice-agents-and-coding-tools-are-changing-the-way-businesses-use-ai",
+   "date": "2026-11-12T06:18:08+00:00",
+   "excerpt": "At TechSparks 2026, Google Cloud’s Rajesh Shewani walked through how businesses are using Gemini for voice, agents, and coding, and why the systems built around…"
+  },
+  {
+   "id": "21cde85c9c3c",
+   "source": "afaqs",
+   "region": "india",
+   "weight": 2,
+   "title": "AU Small Finance Bank secures naming rights for Mumbai Metro station",
+   "url": "https://www.afaqs.com/news/mktg/au-small-finance-bank-secures-naming-rights-for-mumbai-metro-station-12802912",
+   "date": "2026-11-12T06:12:00+00:00",
+   "excerpt": "AU Small Finance Bank (AU SFB) has secured exclusive naming and station-wide branding rights for Bandra Colony Metro Station on Mumbai Metro 3's Aqua Line…"
+  },
+  {
+   "id": "154b4789cf65",
+   "source": "afaqs",
+   "region": "india",
+   "weight": 2,
+   "title": "AAAI forms AI Council, appoints LS Digital’s Prasad Shejale as chair",
+   "url": "https://www.afaqs.com/news/advertising/aaai-forms-ai-council-appoints-ls-digitals-prasad-shejale-as-chair-12802775",
+   "date": "2026-11-12T05:28:59+00:00",
+   "excerpt": "The Advertising Agencies Association of India (AAAI) has constituted a Council for AI, appointing Prasad Shejale, founder and group CEO of LS Digital, as its…"
+  },
+  {
+   "id": "10f71cc25384",
+   "source": "YourStory",
+   "region": "india",
+   "weight": 1,
+   "title": "Why CommonFloor’s $200M exit felt like a loss to co-founder Vikas Malpani",
+   "url": "https://yourstory.com/2026/11/why-commonfloors-200-million-exit-felt-like-a-loss-to-co-founder-vikas-malpani",
+   "date": "2026-11-12T05:17:04+00:00",
+   "excerpt": "A decade after Quikr bought the real estate portal, Malpani reflects on leaving the startup he had spent years building and why he chose to…"
+  },
+  {
+   "id": "582c7a04ab7e",
+   "source": "YourStory",
+   "region": "india",
+   "weight": 1,
+   "title": "Mangaluru’s Zupple Labs wins DRDO’s first-ever blockchain defence project",
+   "url": "https://yourstory.com/2026/11/zupple-labs-drdo-tdf-blockchain-security-audit-defence",
+   "date": "2026-11-12T05:01:32+00:00",
+   "excerpt": "DRDO has picked Mangaluru’s Zupple Labs under its TDF to build India’s first security-audit framework for defence blockchain apps."
+  },
+  {
+   "id": "f611daeb2a43",
+   "source": "afaqs",
+   "region": "india",
+   "weight": 2,
+   "title": "Omnicom Media wins Lufthansa Group’s global media mandate",
+   "url": "https://www.afaqs.com/news/newbizwins/omnicom-media-wins-lufthansa-groups-global-media-mandate-12802624",
+   "date": "2026-11-12T05:00:41+00:00",
+   "excerpt": "Omnicom Media has been appointed global media agency of record for Lufthansa Group under a five-year mandate starting January 1, 2027. The appointment brings the…"
+  },
+  {
+   "id": "301a91fd915c",
+   "source": "YourStory",
+   "region": "india",
+   "weight": 1,
+   "title": "Nvidia board to meet to decide CEO Jensen Huang's future at the company: Reports",
+   "url": "https://yourstory.com/2026/11/nvidia-board-to-meet-to-decide-ceo-jensen-huangs-future-at-the-company-reports",
+   "date": "2026-11-12T04:15:24+00:00",
+   "excerpt": "Reports say Jensen Huang had another extramarital affair with a senior executive of Nvidia, in addition to the relationship with a Chinese national Alice Huang,…"
+  },
+  {
+   "id": "ea9c972e772c",
+   "source": "Inc42",
+   "region": "india",
+   "weight": 1,
+   "title": "GoKwik’s ESOP Twist, New CEO At Unacademy & More",
+   "url": "https://inc42.com/buzz/gokwiks-esop-twist-new-ceo-at-unacademy-more/",
+   "date": "2026-11-12T02:30:11+00:00",
+   "excerpt": "GoKwik’s Golden Handcuffs GoKwik has added a contentious twist to its ESOP policy. Under the new rules, current and former…"
+  },
+  {
+   "id": "5e3f128c75a1",
+   "source": "afaqs",
+   "region": "india",
+   "weight": 2,
+   "title": "Shivam Arora joins Jeevansathi as SVP and head of marketing",
+   "url": "https://www.afaqs.com/people-spotting/shivam-arora-joins-jeevansathi-as-svp-and-head-of-marketing-12802237",
+   "date": "2026-11-12T01:33:57+00:00",
+   "excerpt": "Shivam Arora has joined Jeevansathi, the online matchmaking platform owned by Info Edge India, as senior vice president and head of marketing. He announced the…"
+  },
+  {
+   "id": "1f494d5b974c",
+   "source": "Search Engine Roundtable",
+   "region": "global",
+   "weight": 2,
+   "title": "Google Placing Source Icons At Bottom Of AI Overviews",
+   "url": "https://www.seroundtable.com/google-ai-overview-source-icons-bottom-42519.html",
+   "date": "2026-11-12T01:15:00+00:00",
+   "excerpt": "Google is testing moving the citations or sources icons to the very bottom of the AI Overviews. Previously, these icons appeared at the top of…"
+  },
+  {
+   "id": "9ee746e0631c",
+   "source": "afaqs",
+   "region": "india",
+   "weight": 2,
+   "title": "Mia wants jewellery out of the locker and into everyday life this festive season",
+   "url": "https://www.afaqs.com/news/mktg/mia-wants-jewellery-out-of-the-ocker-and-into-everyday-life-this-festive-season-12799139",
+   "date": "2026-11-12T00:00:37+00:00",
+   "excerpt": "For a generation that would rather wear its jewellery than leave it sitting in a locker, the festive season presents an interesting opportunity. While traditional…"
+  },
+  {
+   "id": "fe4980f3c8cd",
+   "source": "afaqs",
+   "region": "india",
+   "weight": 2,
+   "title": "The EV pitch has a blind spot: What happens after the first owner sells?",
+   "url": "https://www.afaqs.com/news/mktg/the-ev-pitch-has-a-blind-spot-what-happens-after-the-first-owner-sells-12802021",
+   "date": "2026-11-11T23:50:37+00:00",
+   "excerpt": "For decades, Indian car buyers have placed their faith—and their wallets—in brands such as Maruti Suzuki and Hyundai, drawn by resale value and the ready…"
+  },
+  {
+   "id": "535568c60a7e",
+   "source": "afaqs",
+   "region": "india",
+   "weight": 2,
+   "title": "Dior ad film row: director admits interpolation, denies generative AI",
+   "url": "https://www.afaqs.com/news/advertising/dior-ad-film-row-director-admits-interpolation-denies-generative-ai-12802075",
+   "date": "2026-11-11T23:40:37+00:00",
+   "excerpt": "Sylvain Chomet, director of Dior’s holiday short film, has denied that generative AI was used for its artwork. He and his producer have, however, acknowledged…"
+  },
+  {
+   "id": "d6b1f71ef6df",
+   "source": "afaqs",
+   "region": "india",
+   "weight": 2,
+   "title": "Attention is the new currency, but brands keep spending it wrong",
+   "url": "https://www.afaqs.com/news/guest-article/attention-is-the-new-currency-but-brands-keep-spending-it-wrong-12802046",
+   "date": "2026-11-11T23:31:37+00:00",
+   "excerpt": "Ask a marketer what a campaign delivered, and the answer usually arrives as a big number: millions of impressions, a reach figure covering a sizeable…"
+  },
+  {
+   "id": "5c1afb6b52fb",
+   "source": "afaqs",
+   "region": "india",
+   "weight": 2,
+   "title": "The Apple case study: Building a premium brand in a price-sensitive market",
+   "url": "https://www.afaqs.com/casestudies/the-apple-case-study-building-a-premium-brand-in-a-price-sensitive-market-12799129",
+   "date": "2026-11-11T23:20:37+00:00",
+   "excerpt": "Apple's journey in India has been shaped by a long-term strategy rather than a push for rapid scale. When the iPhone entered the market around…"
+  },
+  {
+   "id": "b6e52a5106c7",
+   "source": "Search Engine Roundtable",
+   "region": "global",
+   "weight": 2,
+   "title": "Google Ads API Version 26.2 Now Out Available",
+   "url": "https://www.seroundtable.com/google-ads-api-version-262-42517.html",
+   "date": "2026-11-11T20:45:00+00:00",
+   "excerpt": "Google Ads has just released a minor update to its Google Ads API - version 26.2. This update touches on assets, campaigns, reporting, and more…"
+  },
+  {
+   "id": "7b1d63f351b8",
+   "source": "Search Engine Roundtable",
+   "region": "global",
+   "weight": 2,
+   "title": "Google Search AI Overview Definitions Expanded By Default",
+   "url": "https://www.seroundtable.com/google-expanding-definitions-42514.html",
+   "date": "2026-11-11T19:51:00+00:00",
+   "excerpt": "Google is expanding the AI Overviews for definitions by default, where you no longer have to click on \"Show more\" to see the full version…"
+  },
+  {
+   "id": "369bd4362973",
+   "source": "Inc42",
+   "region": "india",
+   "weight": 1,
+   "title": "Retail Smartphone Sales Tanked 20% In 2026 Diwali Season: AIMRA",
+   "url": "https://inc42.com/buzz/retail-smartphone-sales-tanked-20-in-2026-diwali-season-aimra/",
+   "date": "2026-11-11T15:12:52+00:00",
+   "excerpt": "Weak consumer demand and rising prices weighed heavily on the offline smartphone market in the recently-concluded Diwali festive season. According…"
+  },
+  {
+   "id": "6892706309ee",
+   "source": "Inc42",
+   "region": "india",
+   "weight": 1,
+   "title": "After A Decade-Long Stint, Gaurav Munjal To Step Down As Unacademy CEO",
+   "url": "https://inc42.com/buzz/after-a-decade-long-stint-gaurav-munjal-to-step-down-as-unacademy-ceo/",
+   "date": "2026-11-11T14:14:35+00:00",
+   "excerpt": "Barely two months after rival upGrad acquired Unacademy, cofounder Gaurav Munjal is now stepping down as the chief executive officer…"
+  },
+  {
+   "id": "6039015dd0b1",
+   "source": "Inc42",
+   "region": "india",
+   "weight": 1,
+   "title": "Centre Bans Export of Lithium-Ion Battery’s ‘Black Mass’",
+   "url": "https://inc42.com/buzz/centre-bans-export-of-lithium-ion-batterys-black-mass/",
+   "date": "2026-11-11T12:57:14+00:00",
+   "excerpt": "In a major regulatory shift for India’s EV supply chain ecosystem, the Centre has issued directions to prohibit export of…"
+  },
+  {
+   "id": "ce73a6248cb5",
+   "source": "Inc42",
+   "region": "india",
+   "weight": 1,
+   "title": "[Update] Greenjoules Closes Series B Round At ₹150 Cr",
+   "url": "https://inc42.com/buzz/exclusive-greenjoules-raises-%e2%82%b962-cr-funding-from-amazon-singularity-to-scale-green-energy-operations/",
+   "date": "2026-11-11T11:48:36+00:00",
+   "excerpt": "Update | November 11, 17:18 IST Months after Inc42 exclusively reported on Greenjoules’s fundraise, the cleantech startup announced the closure…"
+  },
+  {
+   "id": "7c89272d4928",
+   "source": "Inc42",
+   "region": "india",
+   "weight": 1,
+   "title": "Rentomojo Q2 Revenue Jumps 53% YoY To ₹142 Cr, Net Profit Slumps 63%",
+   "url": "https://inc42.com/buzz/rentomojo-q2-fy27-revenue-jumps-53-yoy-to-%e2%82%b9142-cr-net-profit-slumps-63-to-%e2%82%b918-2-cr/",
+   "date": "2026-11-11T11:03:19+00:00",
+   "excerpt": "Recently listed furniture rental company Rentomojo reported a 62.6% year-on-year (YoY) decline in its profit after tax to ₹18.2 Cr…"
+  },
+  {
+   "id": "b47d7fa10177",
+   "source": "Inc42",
+   "region": "india",
+   "weight": 1,
+   "title": "IPO-Bound Cult.fit Faces Fresh Legal Challenge Over CULT Trademark",
+   "url": "https://inc42.com/buzz/ipo-bound-cult-fit-faces-fresh-legal-challenge-over-cult-trademark/",
+   "date": "2026-11-11T10:40:09+00:00",
+   "excerpt": "In a fresh legal challenge ahead of Cult.fit’s proposed public listing, the Madras High Court (HC) has issued a notice…"
+  },
+  {
+   "id": "0cc85d59ff0a",
+   "source": "Inc42",
+   "region": "india",
+   "weight": 1,
+   "title": "Fintech SaaS Company Veefin Migrates To NSE, BSE Mainboard",
+   "url": "https://inc42.com/buzz/fintech-saas-company-veefin-migrates-to-nse-bse-mainboard/",
+   "date": "2026-11-11T08:08:54+00:00",
+   "excerpt": "Update| Nov 11, 18:43 IST Shares of Veefin ended today’s trading session 2% higher at ₹248.70 apiece on the BSE,…"
+  },
+  {
+   "id": "d0826fa3e1da",
+   "source": "Inc42",
+   "region": "india",
+   "weight": 1,
+   "title": "ED Attaches ₹14 Cr Assets In HashPe Crypto Ponzi Fraud Case",
+   "url": "https://inc42.com/buzz/ed-attaches-%e2%82%b914-cr-assets-in-hashpe-crypto-ponzi-fraud-case/",
+   "date": "2026-11-11T07:46:56+00:00",
+   "excerpt": "The Enforcement Directorate (ED), Chennai, has provisionally attached movable and immovable assets worth approximately ₹14.2 Cr in connection with an…"
+  },
+  {
+   "id": "ade2429176dd",
+   "source": "Inc42",
+   "region": "india",
+   "weight": 1,
+   "title": "[Update] Kissht Raises ₹832 Cr Via Preferential Issue, 24 New Investors Join Cap Table",
+   "url": "https://inc42.com/buzz/kissht-gets-board-nod-to-raise-%e2%82%b9832-cr-via-preferential-issue/",
+   "date": "2026-11-11T06:46:52+00:00",
+   "excerpt": "Update | November 11, 12:15 IST Kissht parent OnEMI Technology Solutions has completed its ₹832.20 Cr preferential issue, allotting 2.65…"
+  },
+  {
+   "id": "b461c90ce5d4",
+   "source": "Inc42",
+   "region": "india",
+   "weight": 1,
+   "title": "AI, Financial Services, Better Connections: Kunal Shah Outlines Three Priorities For WhatsApp",
+   "url": "https://inc42.com/buzz/ai-financial-services-better-connections-kunal-shah-outlines-three-priorities-for-whatsapp/",
+   "date": "2026-11-11T06:08:50+00:00",
+   "excerpt": "Under its new global head Kunal Shah, WhatsApp is looking to expand beyond messaging. In a social media post, Shah…"
+  },
+  {
+   "id": "8aa87f340786",
+   "source": "Search Engine Journal",
+   "region": "global",
+   "weight": 2,
+   "title": "Meta Paused Its New Business Terms, And Businesses Should Plan As If It Never Gets Better",
+   "url": "https://www.searchenginejournal.com/meta-paused-its-new-business-terms-and-businesses-should-plan-as-if-it-never-gets-better/596343/",
+   "date": "2026-11-10T20:00:25+00:00",
+   "excerpt": "A business that gets its customers through Meta should plan as if Meta will never get better for it. Start building other channels."
+  },
+  {
+   "id": "9e4685d84fa1",
+   "source": "Search Engine Journal",
+   "region": "global",
+   "weight": 2,
+   "title": "Google’s November 2026 Core Update Starts Rolling Out",
+   "url": "https://www.searchenginejournal.com/google-november-2026-core-update/596614/",
+   "date": "2026-11-10T19:55:01+00:00",
+   "excerpt": "Google has begun rolling out its November 2026 core update globally and says it may take up to two weeks to complete."
+  },
+  {
+   "id": "96d4ca2f0084",
+   "source": "Search Engine Journal",
+   "region": "global",
+   "weight": 2,
+   "title": "Google Ads Now Runs In AI Mode Across 10 More Countries",
+   "url": "https://www.searchenginejournal.com/google-expands-ads-in-ai-mode-multiturn-ads/596540/",
+   "date": "2026-11-10T19:08:34+00:00",
+   "excerpt": "Google is rolling out English-language ads in AI Mode to more than 10 new countries and launching multiturn ads for follow-up queries in the U.S."
+  },
+  {
+   "id": "8ede8f8cc891",
+   "source": "Search Engine Journal",
+   "region": "global",
+   "weight": 2,
+   "title": "“F*** Keywords” – Well, What Are You Replacing Them With?",
+   "url": "https://www.searchenginejournal.com/forget-keywords-well-what-are-you-replacing-them-with/596349/",
+   "date": "2026-11-10T18:00:42+00:00",
+   "excerpt": "Declaring keywords dead is easy. Explaining what you’ll track, how you’ll govern content, and what stakeholders buy into is the harder part."
+  },
+  {
+   "id": "6470acffc979",
+   "source": "Search Engine Journal",
+   "region": "global",
+   "weight": 2,
+   "title": "Google Releases Modern Web Guidance 1.0 For AI Coding Agents",
+   "url": "https://www.searchenginejournal.com/google-releases-modern-web-guidance-1-0-for-ai-coding-agents/596495/",
+   "date": "2026-11-10T17:00:00+00:00",
+   "excerpt": "Google’s Modern Web Guidance 1.0 adds a codebase audit to its free skill set for AI coding agents."
+  },
+  {
+   "id": "6c99a155edb1",
+   "source": "Search Engine Journal",
+   "region": "global",
+   "weight": 2,
+   "title": "Good Vs. Bad pSEO: Learnings From A Decade Of Building Scalable Content Engines",
+   "url": "https://www.searchenginejournal.com/good-vs-bad-pseo-learnings-from-a-decade-of-building-scalable-content-engines/594204/",
+   "date": "2026-11-10T15:00:54+00:00",
+   "excerpt": "Build programmatic SEO pages that earn their place with unique data, clear publishing standards, and pruning rules that keep scale from becoming spam."
+  },
+  {
+   "id": "d1f1573ee281",
+   "source": "Search Engine Journal",
+   "region": "global",
+   "weight": 2,
+   "title": "Jon Miller On AI And The Future Of Marketing Automation",
+   "url": "https://www.searchenginejournal.com/jon-miller-ai-marketing-automation/596446/",
+   "date": "2026-11-10T13:00:26+00:00",
+   "excerpt": "Jon Miller joins Heather Campbell to discuss how AI could reshape marketing automation, buying groups, and the decisions marketers face before renewing legacy platforms."
+  },
+  {
+   "id": "ee28cbbcd12f",
+   "source": "Search Engine Journal",
+   "region": "global",
+   "weight": 2,
+   "title": "Meta Pauses Its Updated Business And Ad Terms Due Nov. 20",
+   "url": "https://www.searchenginejournal.com/meta-pauses-updated-business-ad-terms/596493/",
+   "date": "2026-11-10T11:30:00+00:00",
+   "excerpt": "Meta paused its updated business and ad terms, leaving existing crawl rights in place for advertisers."
+  },
+  {
+   "id": "dc3a4ab458d9",
+   "source": "Social Samosa",
+   "region": "india",
+   "weight": 2,
+   "title": "Beyond Diwali sales, Nishant Arora on the bigger challenge of building customer loyalty",
+   "url": "https://www.socialsamosa.com/marketing-shorts/nishant-arora-on-challenge-building-customer-loyalty-12785312",
+   "date": "2026-11-10T03:31:37+00:00",
+   "excerpt": "Diwali shopping offered brands an opportunity to acquire new customers, but the larger challenge lay in understanding what drove purchase decisions beyond festive discounts. As…"
+  },
+  {
+   "id": "1b2e2fbfe8c6",
+   "source": "Social Samosa",
+   "region": "india",
+   "weight": 2,
+   "title": "Bootcuts are back. So is being everywhere",
+   "url": "https://www.socialsamosa.com/guest-post/bootcuts-are-back-so-is-being-everywhere-12788950",
+   "date": "2026-11-10T02:30:37+00:00",
+   "excerpt": "Fashion has a habit of coming back. The bootcut jeans we happily gave up for skinny fits are on the racks again. But they're not…"
+  }
+ ]
+}

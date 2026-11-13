@@ -6,11 +6,14 @@ Each story gets one short, original "For you" take: what this news means for an 
 
 Run these steps in order, in this repository. Don't skip any.
 
-## 1. Fetch
+## 1. Get today's stories
+GitHub fetches the feeds every morning at 05:00 IST into `data/inbox/candidates.json`, because this cloud environment can't reach news websites.
 ```
-python3 scripts/ingest.py
+python3 scripts/use_inbox.py
 ```
-This writes `work/candidates.json`: today's new stories (id, source, title, url, date, excerpt). If it reports 0 candidates, write `work/takes.json` as `{"items": []}`, run step 3, commit, and stop.
+- It copies the inbox to `work/candidates.json` if it's from the last 12 hours, and prints how many stories there are.
+- If it says the inbox is missing or old, stop here: **commit nothing**, and end with one line saying the inbox was stale. The website keeps showing the last good day.
+- If it says 0 stories, also stop and commit nothing.
 
 ## 2. Score every candidate and write `work/takes.json`
 Read `work/candidates.json`. For **every** item, add one entry to `work/takes.json`:

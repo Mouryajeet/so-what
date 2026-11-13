@@ -1,0 +1,96 @@
+[
+ {
+  "source": "afaqs",
+  "ok": true,
+  "entries": 50,
+  "fresh_new": 28
+ },
+ {
+  "source": "Social Samosa",
+  "ok": true,
+  "entries": 50,
+  "fresh_new": 2
+ },
+ {
+  "source": "ET BrandEquity",
+  "ok": true,
+  "entries": 10,
+  "fresh_new": 0
+ },
+ {
+  "source": "MediaNews4U",
+  "ok": true,
+  "entries": 10,
+  "fresh_new": 0
+ },
+ {
+  "source": "YourStory",
+  "ok": true,
+  "entries": 20,
+  "fresh_new": 8
+ },
+ {
+  "source": "Inc42",
+  "ok": true,
+  "entries": 24,
+  "fresh_new": 12
+ },
+ {
+  "source": "Meta Newsroom",
+  "ok": true,
+  "entries": 10,
+  "fresh_new": 0
+ },
+ {
+  "source": "Meta for Business",
+  "ok": true,
+  "entries": 10,
+  "fresh_new": 0
+ },
+ {
+  "source": "Google Ads & Commerce",
+  "ok": true,
+  "entries": 20,
+  "fresh_new": 0
+ },
+ {
+  "source": "Google Search Central",
+  "ok": true,
+  "entries": 10,
+  "fresh_new": 0
+ },
+ {
+  "source": "YouTube Official Blog",
+  "ok": true,
+  "entries": 20,
+  "fresh_new": 0
+ },
+ {
+  "source": "Instagram",
+  "ok": true,
+  "entries": 367,
+  "fresh_new": 0
+ },
+ {
+  "source": "Search Engine Journal",
+  "ok": true,
+  "entries": 20,
+  "fresh_new": 8
+ },
+ {
+  "source": "Search Engine Roundtable",
+  "ok": true,
+  "entries": 15,
+  "fresh_new": 3
+ },
+ {
+  "source": "exchange4media",
+  "ok": false,
+  "error": "syntax error: line 1, column 0"
+ },
+ {
+  "source": "Search Engine Land",
+  "ok": false,
+  "error": "HTTP Error 403: Forbidden"
+ }
+]
