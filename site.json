@@ -1,8 +1,8 @@
 {
-  "_note": "Preview first: path so-what-preview + noindex true. To go public: path so-what, noindex false (and add the nav link on the main site).",
+  "_note": "PUBLIC since 2026-11-13 (Mourya's go): path so-what, indexed, linked from the main site nav. The old so-what-preview folder on Hostinger is stale.",
   "site_url": "https://brandmizer.com",
-  "path": "so-what-preview",
-  "noindex": true,
+  "path": "so-what",
+  "noindex": false,
   "asset_version": "2",
   "pixel_id": "4198595263773796",
   "whatsapp": "917880118355",
