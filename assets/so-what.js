@@ -222,6 +222,7 @@
     if (!name || !contact) { st.textContent = 'Please add your name and a phone number or email.'; return }
     if (!f.get('consent')) { st.textContent = 'Please tick the box so we can send it to you.'; return }
     if (window.fbq) try { window.fbq('track', 'Lead', { content_name: 'so_what_signup' }) } catch (err) {}
+    if (window.gtag) try { window.gtag('event', 'generate_lead', { lead_source: 'so-what', lead_need: 'monday signup' }) } catch (err) {}
     var url = form.dataset.endpoint
     if (!url) {
       var msg = 'Hi Brandmizer, please add me to So What? every Monday. Name: ' + name + '. Contact: ' + contact

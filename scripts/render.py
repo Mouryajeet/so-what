@@ -84,6 +84,7 @@ def page(days, title, desc, canon, single=False):
                    "publisher": {"@type": "Organization", "name": p["source"]}, "abstract": p["take"]}} for i, p in enumerate(latest)]}}
     robots = '<meta name="robots" content="noindex,nofollow">' if CFG.get("noindex") else '<meta name="robots" content="index,follow,max-image-preview:large">'
     pixel = f'''<script>!function(f,b,e,v,n,t,s){{if(f.fbq)return;n=f.fbq=function(){{n.callMethod?n.callMethod.apply(n,arguments):n.queue.push(arguments)}};if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}}(window,document,'script','https://connect.facebook.net/en_US/fbevents.js');fbq('init','{CFG["pixel_id"]}');fbq('track','PageView');</script>''' if CFG.get("pixel_id") else ""
+    ga4 = f'''<script>window.dataLayer=window.dataLayer||[];function gtag(){{dataLayer.push(arguments)}}gtag('js',new Date());gtag('config','{CFG["ga4_id"]}');addEventListener('load',function(){{setTimeout(function(){{var s=document.createElement('script');s.async=1;s.src='https://www.googletagmanager.com/gtag/js?id={CFG["ga4_id"]}';document.head.appendChild(s)}},1200)}});</script>''' if CFG.get("ga4_id") else ""
     nav_links = [("Work", "/city/"), ("Services", "/services/"), ("How we work", "/how-we-work/"), ("So What?", PATH), ("About", "/about/"), ("Consult", "/consult/"), ("Brief", "/brief/")]
     nl = "".join(f'<a href="{h}"{" aria-current=page" if h == PATH else ""}>{t}</a>' for t, h in nav_links)
     return f'''<!doctype html>
@@ -96,7 +97,7 @@ def page(days, title, desc, canon, single=False):
 <link rel="icon" href="/icon.png"><link rel="preload" href="{PATH}bricolage.woff2" as="font" type="font/woff2" crossorigin>
 <script>try{{if(!matchMedia('(prefers-reduced-motion: reduce)').matches)document.documentElement.classList.add('motion')}}catch(e){{}}</script>
 <link rel="stylesheet" href="{PATH}so-what.css?v={CFG["asset_version"]}">
-<script type="application/ld+json">{json.dumps(schema, ensure_ascii=False)}</script>{pixel}
+<script type="application/ld+json">{json.dumps(schema, ensure_ascii=False)}</script>{pixel}{ga4}
 </head>
 <body>
 <a class="skip" href="#stories">Skip to the stories</a>
