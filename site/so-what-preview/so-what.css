@@ -50,21 +50,77 @@ h1 em, .h2 em { font-style: normal; color: transparent; background: linear-gradi
 .stamp { text-align: right; }
 .stamp b { display: block; font-size: 15px; color: var(--ink); font-weight: 600; letter-spacing: 0; text-transform: none; }
 
-/* the signal line */
+/* the signal line: one peak per story, taller = bigger impact. Complete without JS; so-what.js adds the motion. */
 .signal { position: relative; margin-top: clamp(24px, 4vw, 48px); height: clamp(120px, 16vw, 200px); }
-.signal svg { position: absolute; left: calc(-1 * var(--gut)); width: calc(100% + 2 * var(--gut)); height: 100%; overflow: visible; }
+.signal svg, .signal .dots { position: absolute; top: 0; left: calc(-1 * var(--gut)); width: calc(100% + 2 * var(--gut)); height: 100%; }
+.signal svg { overflow: visible; }
 .signal .glow { filter: blur(6px); opacity: .7; }
-.signal .peak { cursor: pointer; }
-.signal .peak circle { transition: r .2s; }
-.signal .peak:hover circle, .signal .peak:focus circle { r: 8; }
-.signal .peak text { fill: var(--dim); font: 500 11px var(--ff); letter-spacing: .1em; text-transform: uppercase; }
-/* the line is always fully visible; motion only adds a breathing glow and a pulse on the biggest story */
+.signal .spark { filter: drop-shadow(0 0 6px rgba(255,183,36,.8)); }
+/* JS hides the line for a beat so the peaks can rise; if JS never arrives, it shows anyway after 3 s */
+.motion .signal:not(.ready) svg, .motion .signal:not(.ready) .dots { opacity: 0; animation: sig-failsafe 0s linear 3s forwards; }
+@keyframes sig-failsafe { to { opacity: 1; } }
+
+.signal .peak { position: absolute; z-index: 1; width: 26px; height: 26px; margin: -13px 0 0 -13px; padding: 0; border: 0; border-radius: 50%; background: none; cursor: pointer; }
+.signal .peak::before { content: ''; position: absolute; inset: 8px; border-radius: 50%; background: var(--lilac); transition: transform .3s cubic-bezier(.16,1,.3,1), box-shadow .3s, opacity .3s; }
+.signal .peak.hot::before { background: var(--coral); }
+.signal .peak:hover::before, .signal .peak:focus-visible::before, .signal .peak.cur::before, .signal .peak.hover::before { transform: scale(1.7); box-shadow: 0 0 16px 3px rgba(251,82,37,.6); }
+.signal .peak.cur::before { background: var(--amber); }
+.signal .peak.off::before { opacity: .2; transform: scale(.8); box-shadow: none; }
+.signal .peak.pre::before { transform: scale(0); }
+.signal .peak:hover, .signal .peak:focus-visible { z-index: 3; }
+.signal .peak .tip { position: absolute; bottom: calc(100% + 8px); left: 50%; width: max-content; max-width: 280px; padding: 9px 12px; border: 1px solid var(--line2); border-radius: 10px; background: rgba(18,16,14,.95); color: var(--ink); font: 500 13.5px/1.3 var(--ff); text-align: left; opacity: 0; pointer-events: none; transform: translate(-50%, 6px); transition: opacity .18s, transform .18s; }
+.signal .peak .tip b { display: block; margin-bottom: 3px; font-size: 11px; letter-spacing: .12em; text-transform: uppercase; color: var(--lilac); font-weight: 600; }
+.signal .peak.l .tip { left: -4px; transform: translate(0, 6px); }
+.signal .peak.r .tip { left: auto; right: -4px; transform: translate(0, 6px); }
+.signal .peak:hover .tip, .signal .peak:focus-visible .tip { opacity: 1; transform: translate(-50%, 0); }
+.signal .peak.l:hover .tip, .signal .peak.l:focus-visible .tip, .signal .peak.r:hover .tip, .signal .peak.r:focus-visible .tip { transform: none; }
+@media (hover: none), (max-width: 760px) { .signal .peak .tip { display: none; } }
+@media (max-width: 640px) { .signal .peak { width: 20px; height: 20px; margin: -10px 0 0 -10px; } .signal .peak::before { inset: 6px; } }
+.signal .head { position: absolute; z-index: 2; width: 10px; height: 10px; margin: -5px 0 0 -5px; border-radius: 50%; background: #fff; box-shadow: 0 0 10px 3px rgba(255,183,36,.9), 0 0 34px 12px rgba(251,82,37,.45); opacity: 0; pointer-events: none; transition: opacity .25s; }
+.signal .head.on { opacity: 1; }
 @media (prefers-reduced-motion: no-preference) {
   .signal .glow { animation: breathe 4s ease-in-out infinite; }
-  .signal .peak.top circle { animation: beat 2.4s ease-in-out infinite; transform-box: fill-box; transform-origin: center; }
   @keyframes breathe { 0%, 100% { opacity: .45; } 50% { opacity: .9; } }
-  @keyframes beat { 0%, 100% { transform: scale(1); } 50% { transform: scale(1.6); } }
+  .signal .peak.top::after { content: ''; position: absolute; inset: 8px; border-radius: 50%; border: 1.5px solid var(--coral); animation: ring 2.4s cubic-bezier(.2,.6,.3,1) infinite; pointer-events: none; }
+  .signal .peak.pre::after { opacity: 0; animation: none; }
+  @keyframes ring { 0% { transform: scale(1); opacity: .9; } 100% { transform: scale(3.4); opacity: 0; } }
+  .signal .peak.ping::before { animation: ping .75s cubic-bezier(.16,1,.3,1); }
+  @keyframes ping { 0% { transform: scale(2.6); box-shadow: 0 0 22px 6px rgba(255,183,36,.85); background: #fff; } 100% { transform: scale(1); box-shadow: 0 0 0 0 rgba(251,82,37,0); } }
 }
+
+/* mini signal: slides out under the nav while you read today's stories and marks the one you're on */
+.mini { position: fixed; z-index: 45; top: var(--nav); left: 0; right: 0; height: 44px; background: rgba(8,7,6,.88); backdrop-filter: blur(12px); -webkit-backdrop-filter: blur(12px); border-bottom: 1px solid var(--line); transform: translateY(-100%); opacity: 0; visibility: hidden; transition: transform .4s cubic-bezier(.16,1,.3,1), opacity .25s, visibility 0s .4s; }
+body.mini-on .mini { transform: none; opacity: 1; visibility: visible; transition: transform .4s cubic-bezier(.16,1,.3,1), opacity .25s; }
+.mini .wrap { display: flex; align-items: center; gap: 16px; height: 100%; }
+.mini .label { font-size: 11px; white-space: nowrap; }
+.mcount { min-width: 5.5em; text-align: right; color: var(--ink); font-variant-numeric: tabular-nums; }
+.mtrack { position: relative; flex: 1; height: 30px; }
+.mtrack svg { position: absolute; inset: 0; width: 100%; height: 100%; overflow: visible; opacity: .8; }
+.mdot { position: absolute; width: 16px; height: 16px; margin: -8px 0 0 -8px; cursor: pointer; }
+.mdot::before { content: ''; position: absolute; inset: 5px; border-radius: 50%; background: var(--lilac); transition: transform .3s cubic-bezier(.16,1,.3,1), box-shadow .3s, opacity .3s; }
+.mdot.hot::before { background: var(--coral); }
+.mdot.cur::before { background: var(--amber); transform: scale(1.9); box-shadow: 0 0 12px 3px rgba(251,82,37,.65); }
+.mdot.off::before { opacity: .2; }
+body.mini-on .dayhead { top: calc(var(--nav) + 44px); }
+html:has(body.mini-on) { scroll-padding-top: calc(var(--nav) + 60px); }
+@media (max-width: 640px) { .mlab { display: none; } .mini .wrap { gap: 10px; } }
+
+/* stories: drop in as they reach the screen; the one you're reading gets a hot top edge */
+.story::before { content: ''; position: absolute; left: 0; right: 0; top: -1px; height: 2px; background: linear-gradient(90deg, var(--coral), var(--amber) 55%, rgba(255,183,36,0)); transform: scaleX(0); transform-origin: left; opacity: 0; transition: transform .7s cubic-bezier(.16,1,.3,1), opacity .4s; pointer-events: none; }
+.story.cur::before { transform: scaleX(1); opacity: 1; }
+@media (prefers-reduced-motion: no-preference) {
+  .story { transition: opacity .55s cubic-bezier(.16,1,.3,1), transform .75s cubic-bezier(.16,1,.3,1); }
+  .story.pre { opacity: 0; transform: translateY(-22px); }
+  .story.flash::before { animation: land 1.2s cubic-bezier(.16,1,.3,1); }
+  @keyframes land { 0% { transform: scaleX(0); opacity: 1; } 55% { transform: scaleX(1); opacity: 1; } 100% { transform: scaleX(1); opacity: 0; } }
+  .story.cur.flash::before { animation: none; }
+}
+@media (prefers-reduced-motion: reduce) { .story::before, .mini, body.mini-on .mini, .signal .peak::before, .mdot::before { transition: none; } }
+
+.countrow { display: flex; align-items: center; gap: 14px; min-height: 36px; }
+.countrow .label { margin: 0; }
+.clear { min-height: 32px; padding: 0 12px; border-radius: 999px; border: 1px solid var(--line2); background: transparent; color: var(--amber); font: 500 13px var(--ff); cursor: pointer; }
+.clear:hover { border-color: var(--amber); }
 
 /* controls */
 .controls { position: relative; z-index: 20; background: rgba(8,7,6,.9); backdrop-filter: blur(10px); -webkit-backdrop-filter: blur(10px); border-top: 1px solid var(--line); border-bottom: 1px solid var(--line); }
@@ -122,6 +178,7 @@ body.cafe .take.cafe { display: block; }
   .day.today .list { grid-auto-flow: column; grid-auto-columns: 88%; grid-template-columns: none; gap: 12px; overflow-x: auto; scroll-snap-type: x mandatory; padding-bottom: 8px; margin-right: calc(-1 * var(--gut)); padding-right: var(--gut); }
   .day.today .story { scroll-snap-align: start; border: 1px solid var(--line); border-radius: 14px; background: var(--card); padding: 18px; }
   .swipehint { display: block !important; }
+  .day.today .story::before { left: 16px; right: 16px; }
   .dayhead { top: var(--nav); }
   .controls { position: static; }
 }

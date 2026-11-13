@@ -42,22 +42,26 @@ def story(p, i):
 </li>'''
 
 def signal(items):
+    """The signal line: one peak per story of the day, oldest left; taller peak = bigger impact.
+    Server-rendered and complete without JS. so-what.js animates it (pulse run, peaks rising, scroll sync)."""
     if not items: return ""
     top_id = max(items, key=lambda p: p["impact"])["id"]
-    items = sorted(items, key=lambda p: p["date"])  # the line runs in time order, oldest left
-    W, base, n = 1600, 150, len(items)
+    items = sorted(items, key=lambda p: p["date"])
+    W, VH, base, n = 1600, 190, 150, len(items)
     xs = [int(160 + (W - 320) * (i + 0.5) / n) for i in range(n)]
-    pts, peaks = [f"M0 {base}"], []
-    for i, (x, p) in enumerate(zip(xs, items)):
+    pts, dots = [f"M0 {base}"], []
+    for x, p in zip(xs, items):
         h = 22 + p["impact"] * 22
         pts += [f"L{x-26} {base}", f"L{x} {base-h}", f"L{x+26} {base}"]
-        peaks.append(f'<g class="peak{" top" if p["id"] == top_id else ""}" data-for="s-{E(p["id"])}" tabindex="0" role="button" aria-label="Go to: {E(p["title"])}"><circle cx="{x}" cy="{base-h}" r="5" fill="{"#fb5225" if p["impact"] >= 4 else "#b98cff"}"/></g>')
+        cls = "peak" + (" hot" if p["impact"] >= 4 else "") + (" top" if p["id"] == top_id else "") + (" l" if x < W * .18 else " r" if x > W * .82 else "")
+        dots.append(f'<button class="{cls}" type="button" data-for="s-{E(p["id"])}" data-x="{x}" data-h="{h}" style="left:{x / W * 100:.3f}%;top:{(base - h) / VH * 100:.3f}%" aria-label="Go to: {E(p["title"])}"><span class="tip" aria-hidden="true"><b>{E(p["category"])} · impact {p["impact"]}</b>{E(p["title"])}</span></button>')
     pts.append(f"L{W} {base}")
     d = " ".join(pts)
-    return f'''<div class="signal" aria-hidden="false"><svg viewBox="0 0 {W} 190" preserveAspectRatio="none" role="group" aria-label="Today's stories as a signal: the taller the peak, the bigger the impact">
-<defs><linearGradient id="sg" x1="0" x2="1"><stop offset="0" stop-color="#8b3ffa" stop-opacity=".15"/><stop offset=".55" stop-color="#b98cff"/><stop offset="1" stop-color="#fb5225" stop-opacity=".5"/></linearGradient></defs>
-<path class="glow" d="{d}" fill="none" stroke="url(#sg)" stroke-width="6"/><path d="{d}" fill="none" stroke="url(#sg)" stroke-width="2"/>
-{''.join(peaks)}</svg></div>'''
+    return f'''<div class="signal" data-w="{W}" data-vh="{VH}" data-base="{base}"><svg viewBox="0 0 {W} {VH}" preserveAspectRatio="none" aria-hidden="true" focusable="false">
+<defs><linearGradient id="sg" gradientUnits="userSpaceOnUse" x1="0" x2="{W}" y1="0" y2="0"><stop offset="0" stop-color="#8b3ffa" stop-opacity=".15"/><stop offset=".55" stop-color="#b98cff"/><stop offset="1" stop-color="#fb5225" stop-opacity=".5"/></linearGradient>
+<linearGradient id="sp" gradientUnits="userSpaceOnUse" x1="-600" x2="-300" y1="0" y2="0"><stop offset="0" stop-color="#fb5225" stop-opacity="0"/><stop offset=".8" stop-color="#ffb724" stop-opacity=".95"/><stop offset=".9" stop-color="#fff"/><stop offset=".96" stop-color="#fff" stop-opacity="0"/></linearGradient></defs>
+<path class="glow" d="{d}" fill="none" stroke="url(#sg)" stroke-width="6" vector-effect="non-scaling-stroke"/><path class="line" d="{d}" fill="none" stroke="url(#sg)" stroke-width="2" vector-effect="non-scaling-stroke"/><path class="spark" d="{d}" fill="none" stroke="url(#sp)" stroke-width="3" vector-effect="non-scaling-stroke"/></svg>
+<div class="dots" role="group" aria-label="Today's stories as a signal: the taller the peak, the bigger the impact. Pick one to jump to it.">{''.join(dots)}<span class="head" aria-hidden="true"></span></div></div>'''
 
 def page(days, title, desc, canon, single=False):
     latest = days[0]["items"] if days else []
@@ -90,6 +94,7 @@ def page(days, title, desc, canon, single=False):
 <link rel="canonical" href="{E(canon)}"><link rel="alternate" type="application/rss+xml" title="So What? by Brandmizer" href="{PATH}feed.xml">
 <meta property="og:type" content="website"><meta property="og:site_name" content="Brandmizer"><meta property="og:title" content="{E(title)}"><meta property="og:description" content="{E(desc)}"><meta property="og:url" content="{E(canon)}"><meta property="og:image" content="{SITE}/og.jpg"><meta name="twitter:card" content="summary_large_image">
 <link rel="icon" href="/icon.png"><link rel="preload" href="{PATH}bricolage.woff2" as="font" type="font/woff2" crossorigin>
+<script>try{{if(!matchMedia('(prefers-reduced-motion: reduce)').matches)document.documentElement.classList.add('motion')}}catch(e){{}}</script>
 <link rel="stylesheet" href="{PATH}so-what.css?v={CFG["asset_version"]}">
 <script type="application/ld+json">{json.dumps(schema, ensure_ascii=False)}</script>{pixel}
 </head>
@@ -111,7 +116,7 @@ def page(days, title, desc, canon, single=False):
 </div><div class="wrap"><div class="chips" role="group" aria-label="Business type">{ind_btns}</div>
 <button class="sw" id="lens" type="button" aria-pressed="false"><i></i>Bhopal / India lens</button>
 <button class="sw" id="cafe" type="button" aria-pressed="false"><i></i>Explain it like I run a café</button></div></div>
-<div class="wrap days" id="stories"><p class="label" aria-live="polite" id="count"></p>
+<div class="wrap days" id="stories"><div class="countrow"><p class="label" aria-live="polite" id="count"></p><button class="clear" id="clear" type="button" hidden>Clear filters</button></div>
 {''.join(blocks) if blocks else '<p class="empty">Today’s stories are on their way. Check back after 7 am.</p>'}
 <section class="signup" aria-labelledby="mon"><div><p class="label kicker">Every Monday</p><h2 class="h2" id="mon">The week, <em>in one message.</em></h2>
 <p>The five stories that mattered most, with what to do about each. On WhatsApp or by email, once a week. Nothing else.</p></div>
