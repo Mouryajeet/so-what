@@ -58,7 +58,7 @@ def main():
                       "date": c["date"], "excerpt": c["excerpt"], "category": t["category"], "industries": t.get("industries", []),
                       "impact": t["impact"], "impact_reason": t.get("impact_reason", ""), "india_lens": bool(t.get("india_lens")),
                       "take": t["take"].strip(), "take_cafe": t["take_cafe"].strip(), "link": LINKS[t["category"]], "_w": c["weight"]})
-    picks.sort(key=lambda p: (-p["impact"], -p["_w"], p["date"]), reverse=False)
+    picks.sort(key=lambda p: (-p["impact"], -p["_w"], -datetime.datetime.fromisoformat(p["date"]).timestamp()))
     picks = picks[:MAX_PUBLISH]
     for p in picks: p.pop("_w")
     day = NOW.strftime("%Y-%m-%d")
