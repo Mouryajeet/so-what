@@ -58,11 +58,17 @@ def main():
                       "date": c["date"], "excerpt": c["excerpt"], "category": t["category"], "industries": t.get("industries", []),
                       "impact": t["impact"], "impact_reason": t.get("impact_reason", ""), "india_lens": bool(t.get("india_lens")),
                       "take": t["take"].strip(), "take_cafe": t["take_cafe"].strip(), "link": LINKS[t["category"]], "_w": c["weight"]})
+    day = NOW.strftime("%Y-%m-%d")
+    (ROOT / "data" / "days").mkdir(parents=True, exist_ok=True)
+    # a second run on the same day adds to that day instead of replacing it
+    dpath = ROOT / "data" / "days" / f"{day}.json"
+    if dpath.exists():
+        have = {p["id"] for p in picks}
+        for p in json.loads(dpath.read_text()).get("items", []):
+            if p["id"] not in have: p["_w"] = 2; picks.append(p)
     picks.sort(key=lambda p: (-p["impact"], -p["_w"], -datetime.datetime.fromisoformat(p["date"]).timestamp()))
     picks = picks[:MAX_PUBLISH]
     for p in picks: p.pop("_w")
-    day = NOW.strftime("%Y-%m-%d")
-    (ROOT / "data" / "days").mkdir(parents=True, exist_ok=True)
     (ROOT / "data" / "days" / f"{day}.json").write_text(json.dumps({"date": day, "published": NOW.isoformat(), "items": picks}, ensure_ascii=False, indent=1))
 
     days = sorted((ROOT / "data" / "days").glob("*.json"), reverse=True)[:10]
