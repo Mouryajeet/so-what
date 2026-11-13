@@ -7,6 +7,12 @@
   var reduce = matchMedia('(prefers-reduced-motion: reduce)').matches
   var state = { cat: 'all', ind: 'all', min: 3, india: false, cafe: false }
   try { var saved = JSON.parse(localStorage.getItem('sowhat') || '{}'); if (saved.cafe) state.cafe = true } catch (e) {}
+  // deep links from the main site's industry pages: /so-what/?ind=Restaurants%20%26%20caf%C3%A9s (or ?cat=Meta%20ads)
+  try {
+    var q = new URLSearchParams(location.search)
+    if (q.get('ind') && document.querySelector('[data-ind-btn="' + q.get('ind').replace(/"/g, '') + '"]')) state.ind = q.get('ind')
+    if (q.get('cat') && document.querySelector('[data-cat-btn="' + q.get('cat').replace(/"/g, '') + '"]')) state.cat = q.get('cat')
+  } catch (e) {}
 
   var total = $$('.story').length
 
