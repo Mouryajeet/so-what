@@ -1,7 +1,17 @@
 {
- "generated": "2026-11-13T01:06:19.992364+00:00",
- "count": 45,
+ "generated": "2026-11-13T01:09:44.612347+00:00",
+ "count": 47,
  "items": [
+  {
+   "id": "0f41c5dbb4ca",
+   "source": "Meta for Business",
+   "region": "global",
+   "weight": 3,
+   "title": "From measurement to capital allocation: How leaders are putting incrementality to work",
+   "url": "https://www.facebook.com/business/news/from-measurement-to-capital-allocation",
+   "date": "2026-11-12T20:06:02+00:00",
+   "excerpt": "Marketing measurement has become more sophisticated, but finance leaders still face a fundamental question: which investments are generating growth that would not have occurred otherwise?"
+  },
   {
    "id": "d3eed08b58fd",
    "source": "YourStory",
@@ -251,6 +261,16 @@
    "url": "https://www.seroundtable.com/google-expanding-definitions-42514.html",
    "date": "2026-11-11T19:51:00+00:00",
    "excerpt": "Google is expanding the AI Overviews for definitions by default, where you no longer have to click on \"Show more\" to see the full version…"
+  },
+  {
+   "id": "79b6a4acc6ac",
+   "source": "Meta for Business",
+   "region": "global",
+   "weight": 3,
+   "title": "Finding His Squad Again in a Facebook Group",
+   "url": "https://www.facebook.com/business/news/finding-his-squad-again-in-a-facebook-group",
+   "date": "2026-11-11T17:00:31+00:00",
+   "excerpt": "How an Army veteran-turned-growth marketer uses Muse for Small Business to clear the busywork out out of its biggest quarter and get back to the…"
   },
   {
    "id": "369bd4362973",
