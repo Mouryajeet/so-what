@@ -1,0 +1,24 @@
+{
+  "_note": "Edit freely. region: india | global. weight 1-3 nudges ranking only; Claude decides impact. Feeds checked 2026-11-13.",
+  "max_age_hours": 72,
+  "max_candidates": 90,
+  "max_per_source": 12,
+  "sources": [
+    {"name": "afaqs", "url": "https://www.afaqs.com/rss", "region": "india", "weight": 2},
+    {"name": "Social Samosa", "url": "https://www.socialsamosa.com/rss", "region": "india", "weight": 2},
+    {"name": "ET BrandEquity", "url": "https://brandequity.economictimes.indiatimes.com/rss/topstories", "region": "india", "weight": 2},
+    {"name": "MediaNews4U", "url": "https://www.medianews4u.com/feed/", "region": "india", "weight": 1},
+    {"name": "YourStory", "url": "https://yourstory.com/feed", "region": "india", "weight": 1},
+    {"name": "Inc42", "url": "https://inc42.com/feed/", "region": "india", "weight": 1},
+    {"name": "Meta Newsroom", "url": "https://about.fb.com/news/feed/", "region": "global", "weight": 3},
+    {"name": "Meta for Business", "url": "https://www.facebook.com/business/news/rss", "region": "global", "weight": 3},
+    {"name": "Google Ads & Commerce", "url": "https://blog.google/products/ads-commerce/rss/", "region": "global", "weight": 3},
+    {"name": "Google Search Central", "url": "https://developers.google.com/search/blog/feed.xml", "region": "global", "weight": 3},
+    {"name": "YouTube Official Blog", "url": "https://blog.youtube/rss/", "region": "global", "weight": 2},
+    {"name": "Instagram", "url": "https://about.instagram.com/feed", "region": "global", "weight": 3},
+    {"name": "Search Engine Journal", "url": "https://www.searchenginejournal.com/feed/", "region": "global", "weight": 2},
+    {"name": "Search Engine Roundtable", "url": "https://www.seroundtable.com/index.xml", "region": "global", "weight": 2},
+    {"name": "exchange4media", "url": "https://www.exchange4media.com/rss/latest-news.xml", "region": "india", "weight": 2, "note": "behind a bot wall from some networks; skipped automatically when it fails"},
+    {"name": "Search Engine Land", "url": "https://searchengineland.com/feed", "region": "global", "weight": 2, "note": "behind a bot wall from some networks; skipped automatically when it fails"}
+  ]
+}

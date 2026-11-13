@@ -1,0 +1,10 @@
+{
+  "_note": "Preview first: path so-what-preview + noindex true. To go public: path so-what, noindex false (and add the nav link on the main site).",
+  "site_url": "https://brandmizer.com",
+  "path": "so-what-preview",
+  "noindex": true,
+  "asset_version": "1",
+  "pixel_id": "4198595263773796",
+  "whatsapp": "917880118355",
+  "signup_endpoint": ""
+}
