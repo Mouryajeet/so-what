@@ -1,7 +1,207 @@
 {
- "generated": "2026-11-15T02:58:51.725721+00:00",
- "count": 75,
+ "generated": "2026-11-16T02:57:38.685907+00:00",
+ "count": 76,
  "items": [
+  {
+   "id": "75ce1e73220a",
+   "source": "Social Samosa",
+   "region": "india",
+   "weight": 2,
+   "title": "Paritosh Kataria on why claims experience matters more than marketing promises",
+   "url": "https://www.socialsamosa.com/marketing-shorts/paritosh-kataria-why-claims-experience-matters-than-marketing-promises-12768464",
+   "date": "2026-11-16T02:30:37+00:00",
+   "excerpt": "Health insurance marketing in India faces a challenge that goes beyond communicating policy benefits or generating awareness: building consumer trust in a category where the…"
+  },
+  {
+   "id": "289f2d72426e",
+   "source": "afaqs",
+   "region": "india",
+   "weight": 2,
+   "title": "Havas Media Network India bags media mandate for Milky Mist’s Capella",
+   "url": "https://www.afaqs.com/news/newbizwins/havas-media-network-india-bags-media-mandate-for-milky-mists-capella-12812507",
+   "date": "2026-11-16T02:19:32+00:00",
+   "excerpt": "Havas Media Network India has won the integrated media mandate for Milky Mist’s Capella, a luxury chocolate brand. The mandate, awarded earlier this year, will…"
+  },
+  {
+   "id": "63a23b4f9cc1",
+   "source": "YourStory",
+   "region": "india",
+   "weight": 1,
+   "title": "How Tej Chingtham built Northeast’s first incubator; The pilot-turned-entrepreneur who is building a wellness brand",
+   "url": "https://yourstory.com/2026/11/tej-chingtham-northeast-incubator-pilot-turned-entrepreneur-wellness-brand",
+   "date": "2026-11-16T02:00:00+00:00",
+   "excerpt": "In a conversation with Shradha Sharma, Founder and CEO of YourStory and The Bharat Project, Prof Tej Chingtham, CEO of Atal Incubation Centre - Sikkim…"
+  },
+  {
+   "id": "acf3eb4fa814",
+   "source": "Inc42",
+   "region": "india",
+   "weight": 1,
+   "title": "Yatra’s ‘MICE’ Problem",
+   "url": "https://inc42.com/features/yatras-mice-problem/",
+   "date": "2026-11-16T00:30:52+00:00",
+   "excerpt": "Bookings grew, but revenue shrank and profit disappeared. That was the paradox of Yatra in the September quarter, when India’s…"
+  },
+  {
+   "id": "3c0baed3746d",
+   "source": "afaqs",
+   "region": "india",
+   "weight": 2,
+   "title": "Stepping up the game: Aretto eyes Rs 100-crore revenue run rate with aggressive retail expansion",
+   "url": "https://www.afaqs.com/news/mktg/how-aretto-plans-to-turn-growing-shoes-into-a-rs-100-crore-business-12811752",
+   "date": "2026-11-16T00:00:37+00:00",
+   "excerpt": "Spot a child walking around a mall with a white balloon carrying the Aretto logo, and there is a good chance a store is nearby.…"
+  },
+  {
+   "id": "866653d479af",
+   "source": "afaqs",
+   "region": "india",
+   "weight": 2,
+   "title": "Why Indian D2C brands are betting big on CTV beyond performance marketing",
+   "url": "https://www.afaqs.com/news/marketing-initiatives/why-indian-d2c-brands-are-betting-big-on-ctv-beyond-performance-marketing-12807167",
+   "date": "2026-11-15T23:50:37+00:00",
+   "excerpt": "Indian brands that cater directly to consumers once followed a simple script: spot high-intent consumers online and convert them through performance marketing ads. The formula…"
+  },
+  {
+   "id": "f3028302e560",
+   "source": "afaqs",
+   "region": "india",
+   "weight": 2,
+   "title": "The Coca-Cola case study: How the brand built a local connect in India",
+   "url": "https://www.afaqs.com/casestudies/the-coca-cola-case-study-how-the-brand-built-a-local-connect-in-india-12812247",
+   "date": "2026-11-15T23:40:37+00:00",
+   "excerpt": "Coca-Cola's journey in India has been shaped by market changes, strong competition and the need to adapt its global brand identity to local consumer preferences.…"
+  },
+  {
+   "id": "0389481b9068",
+   "source": "afaqs",
+   "region": "india",
+   "weight": 2,
+   "title": "Why brands must rethink social listening before blind spots become crises",
+   "url": "https://www.afaqs.com/news/guest-article/why-brands-must-rethink-social-listening-before-blind-spots-become-crises-12811880",
+   "date": "2026-11-15T23:31:37+00:00",
+   "excerpt": "For an FMCG company, a reputation problem rarely announces itself clearly. It may start with a photograph of a leaking pack, a sarcastic remark in…"
+  },
+  {
+   "id": "9cf3e87037ac",
+   "source": "YourStory",
+   "region": "india",
+   "weight": 1,
+   "title": "(Weekly funding roundup Nov 7-14) VC inflow drops to its lowest level in 2026",
+   "url": "https://yourstory.com/2026/11/weekly-funding-roundup-nov-7-14-vc-inflow-drops-to-lowest-level-2026",
+   "date": "2026-11-15T14:28:16+00:00",
+   "excerpt": "The second week of November saw venture capital funding into Indian startups drop to its lowest level for the year till now due to weak…"
+  },
+  {
+   "id": "5cc03291e502",
+   "source": "afaqs",
+   "region": "india",
+   "weight": 2,
+   "title": "Balaji Telefilms posts Rs 32.5 crore Q2 profit, charts 'Balaji 3.0'",
+   "url": "https://www.afaqs.com/news/media/balaji-telefilms-posts-rs-325-crore-q2-profit-charts-balaji-30-12811618",
+   "date": "2026-11-15T12:56:23+00:00",
+   "excerpt": "Balaji Telefilms reported a consolidated net profit of Rs 32.5 crore in Q2 FY27 as compared to a loss of Rs 5 crore in Q2…"
+  },
+  {
+   "id": "3e25fa76b6ba",
+   "source": "Search Engine Journal",
+   "region": "global",
+   "weight": 2,
+   "title": "Higher Spend Came With Pricier Clicks For 14 B2B Google Advertisers",
+   "url": "https://www.searchenginejournal.com/b2b-google-ads-keywords-cost-more-agency-data/597426/",
+   "date": "2026-11-15T11:30:33+00:00",
+   "excerpt": "One agency's data on 14 B2B advertisers finds the same non-brand Google Ads keywords cost more per click, even after controlling for their own spending."
+  },
+  {
+   "id": "a3d00cb47c23",
+   "source": "YourStory",
+   "region": "india",
+   "weight": 1,
+   "title": "India, US have agreed on preferential market access for Indian goods in America: Piyush Goyal",
+   "url": "https://yourstory.com/2026/11/india-us-agree-on-preferential-market-access-for-indian-goods-in-america-goyal",
+   "date": "2026-11-15T11:11:50+00:00",
+   "excerpt": "India and the US finalised the framework for the first phase of the bilateral trade agreement in February."
+  },
+  {
+   "id": "cf161421868d",
+   "source": "Search Engine Journal",
+   "region": "global",
+   "weight": 2,
+   "title": "YouTube’s Clips Tool Turns Podcast Episodes Into Shorts",
+   "url": "https://www.searchenginejournal.com/youtube-studio-clips-podcast-episodes-shorts/597408/",
+   "date": "2026-11-15T10:00:48+00:00",
+   "excerpt": "YouTube expanded its Studio video clips tool to Shorts, letting creators turn segments of long-form videos, like podcast episodes, into vertical Shorts."
+  },
+  {
+   "id": "6373036a727f",
+   "source": "YourStory",
+   "region": "india",
+   "weight": 1,
+   "title": "Sebi to issue AI usage guidelines for capital markets, focus on investor protection",
+   "url": "https://yourstory.com/2026/11/sebi-issue-ai-usage-guidelines-investor-protection",
+   "date": "2026-11-15T09:39:37+00:00",
+   "excerpt": "The Sebi chief said the proposed guidelines would focus on establishing appropriate guardrails for AI use, including disclosures, accountability of regulated entities, and a 'human-in-the-loop'…"
+  },
+  {
+   "id": "203b1bd3db55",
+   "source": "YourStory",
+   "region": "india",
+   "weight": 1,
+   "title": "Measure AI by results, not number of agents deployed: Oracle senior executive",
+   "url": "https://yourstory.com/2026/11/measure-ai-results-not-number-agents-deployed-oracles-natalia-rachelson",
+   "date": "2026-11-15T09:31:47+00:00",
+   "excerpt": "Business leaders should pick an outcome they can measure, such as reducing the time spent resolving accounting errors or lowering transport costs, said, Natalia Rachelson,…"
+  },
+  {
+   "id": "fc67049de3e8",
+   "source": "YourStory",
+   "region": "india",
+   "weight": 1,
+   "title": "Zomato-parent Eternal reworking 2030 EV delivery target amid fleet expansion, EV adoption",
+   "url": "https://yourstory.com/2026/11/zomato-eternal-reworks-ev-delivery-target-fleet-expansion-evolving-adoption",
+   "date": "2026-11-15T09:24:35+00:00",
+   "excerpt": "The company is working towards a revised timeline, factoring in the availability of electric vehicles, supporting government policies, and the transportation requirements of its various…"
+  },
+  {
+   "id": "2971e86d8d29",
+   "source": "Inc42",
+   "region": "india",
+   "weight": 1,
+   "title": "EaseMyTrip Q2: Loss Narrows 98% YoY To ₹57 Lakh, Revenue Up 34%",
+   "url": "https://inc42.com/buzz/easemytrip-q2-loss-narrows-98-yoy-to-%e2%82%b957-lakh-revenue-up-34/",
+   "date": "2026-11-15T07:45:37+00:00",
+   "excerpt": "Online travel aggregator (OTA) EaseMyTrip managed to narrow its consolidated net loss by 98.4% to ₹56.5 Lakh in the second…"
+  },
+  {
+   "id": "1193923d245e",
+   "source": "Inc42",
+   "region": "india",
+   "weight": 1,
+   "title": "Not Just About Temple: India’s Wearable Impasse",
+   "url": "https://inc42.com/features/not-just-about-temple-indias-wearable-impasse/",
+   "date": "2026-11-15T05:30:21+00:00",
+   "excerpt": "“There is no established playbook for making wearables in India. If you have the capital, you can set up a…"
+  },
+  {
+   "id": "07d81700676c",
+   "source": "YourStory",
+   "region": "india",
+   "weight": 1,
+   "title": "5 lessons from book Be Delusional by Harinder Singh Pelia",
+   "url": "https://yourstory.com/2026/11/lessons-be-delusional",
+   "date": "2026-11-15T05:00:00+00:00",
+   "excerpt": "Discover five powerful lessons from Be Delusional by Harinder Singh Pelia on self-belief, ambition, confidence and turning big dreams into reality."
+  },
+  {
+   "id": "821e65aa8e2c",
+   "source": "YourStory",
+   "region": "india",
+   "weight": 1,
+   "title": "How the art ecosystem opens up a wide range of opportunities beyond creation of artworks",
+   "url": "https://yourstory.com/2026/11/art-ecosystem-roles-opportunities-creativity-exhibition-photography",
+   "date": "2026-11-15T02:50:00+00:00",
+   "excerpt": "In this photo essay, we showcase more highlights from Chennai’s Contemporary Now arts festival, along with director insights."
+  },
   {
    "id": "3199d00e17e3",
    "source": "YourStory",
@@ -187,7 +387,7 @@
    "source": "Search Engine Journal",
    "region": "global",
    "weight": 2,
-   "title": "Meta’s Muse Now Sends Most AI Agent Requests One Security Firm Sees",
+   "title": "Meta & OpenAI Agents Made Nearly 90% Of Agent Requests In Bot Data",
    "url": "https://www.searchenginejournal.com/meta-muse-ai-agent-requests-human-security/597388/",
    "date": "2026-11-14T08:00:52+00:00",
    "excerpt": "Two companies' AI agents made most of the requests observed in one month, and most went to product and search pages rather than checkout."
@@ -253,16 +453,6 @@
    "excerpt": "Mumbai: uKnowva HRMS has launched its first-ever brand film, ‘Breaking the HR Stereotypes’, under its campaign #RespectTheSuperHeRoes. The campaign seeks to challenge the perception that…"
   },
   {
-   "id": "a0b44e6183dd",
-   "source": "YourStory",
-   "region": "india",
-   "weight": 1,
-   "title": "MAGIC launches AIMM 2026, offers Rs 7 lakh in prizes for AI innovations",
-   "url": "https://yourstory.com/2026/11/magic-launches-aimm-2026-national-ai-innovation-challenge",
-   "date": "2026-11-14T07:23:49+00:00",
-   "excerpt": "Got an AI idea? MAGIC has opened applications for AIMM 2026, offering startups, MSMEs, students and researchers a chance to win Rs 7 lakh, with…"
-  },
-  {
    "id": "7b2f6b57abde",
    "source": "MediaNews4U",
    "region": "india",
@@ -271,26 +461,6 @@
    "url": "https://www.medianews4u.com/titan-company-celebrates-over-16000-karigars-through-diwali-film-sukriya-karigar/",
    "date": "2026-11-14T07:17:54+00:00",
    "excerpt": "Bengaluru: Titan Company Limited has launched ‘Sukriya, Karigar’, a Diwali film celebrating over 16,000 karigars who contribute to its jewellery-making ecosystem. Conceptualised in collaboration with…"
-  },
-  {
-   "id": "ffcd4c359fae",
-   "source": "YourStory",
-   "region": "india",
-   "weight": 1,
-   "title": "Stage III cancer to 200+ startups: How Tej Chingtham built the Northeast’s first incubator",
-   "url": "https://yourstory.com/2026/11/tej-chingtham-aic-smutbi-northeast-startups",
-   "date": "2026-11-14T07:13:27+00:00",
-   "excerpt": "From a push for better startup support to mentoring 200+ ventures, Prof. (Dr.) Tej Chingtham is helping shape Northeast India’s startup ecosystem through AIC-SMUTBI."
-  },
-  {
-   "id": "8df1eb8d8ef6",
-   "source": "Inc42",
-   "region": "india",
-   "weight": 1,
-   "title": "From Greenjoules To mistEO — Indian Startups Raised Over $25 Mn This Week",
-   "url": "https://inc42.com/buzz/from-greenjoules-to-misteo-indian-startups-raised-over-25-mn-this-week/",
-   "date": "2026-11-14T03:30:14+00:00",
-   "excerpt": "The post-festive cheer appears to have done little to lift India’s startup ecosystem as funding activity lost steam this week.…"
   },
   {
    "id": "44f01a8555b7",
@@ -313,26 +483,6 @@
    "excerpt": "Saif Ali Khan's reaction to receiving a two-year supply of Gowardhan Ghee on Kaun Banega Crorepati went viral. He later joked about it on The…"
   },
   {
-   "id": "ce12dda2f0d4",
-   "source": "YourStory",
-   "region": "india",
-   "weight": 1,
-   "title": "How art exhibitions provide unmatched experiences of aesthetics, scale and technique",
-   "url": "https://yourstory.com/2026/11/lalit-kala-akademi-art-exhibition-experience-creativity-photography",
-   "date": "2026-11-14T02:35:00+00:00",
-   "excerpt": "In this photo essay from Lalit Kala Akademi in New Delhi, we showcase more highlights from its annual national art exhibition."
-  },
-  {
-   "id": "e45c8bd0e886",
-   "source": "YourStory",
-   "region": "india",
-   "weight": 1,
-   "title": "Microsoft’s global outage; Vidya Balan’s call to put child safety first",
-   "url": "https://yourstory.com/2026/11/microsofts-global-outage-vidya-balan-call-child-safety-first",
-   "date": "2026-11-14T02:00:00+00:00",
-   "excerpt": "Problems with Exchange Online spread across Microsoft 365 and external businesses, highlighting how dependent workplaces have become on shared cloud infrastructure."
-  },
-  {
    "id": "e8b9c9bc5510",
    "source": "Search Engine Journal",
    "region": "global",
@@ -341,26 +491,6 @@
    "url": "https://www.searchenginejournal.com/google-search-traffic-analytics-logs/597382/",
    "date": "2026-11-14T00:02:10+00:00",
    "excerpt": "A Google Search help page lists the referrer values Search traffic sends, why some visits arrive with none, and why counts differ from Search Console."
-  },
-  {
-   "id": "7ecab008d111",
-   "source": "Inc42",
-   "region": "india",
-   "weight": 1,
-   "title": "SoftBank Offloads Meesho Shares Worth ₹1,855 Cr",
-   "url": "https://inc42.com/buzz/softbank-offloads-meesho-shares-worth-%e2%82%b91855-cr/",
-   "date": "2026-11-13T22:09:36+00:00",
-   "excerpt": "Japanese tech investor SoftBank yesterday offloaded 7.6 Cr shares of listed ecommerce giant Meesho in a block deal worth ₹1,885.2…"
-  },
-  {
-   "id": "a73119b1d0d4",
-   "source": "Inc42",
-   "region": "india",
-   "weight": 1,
-   "title": "Sachin Tendulkar Backs Waste Management Startup Recykal",
-   "url": "https://inc42.com/buzz/sachin-tendulkar-backs-waste-management-startup-recykal/",
-   "date": "2026-11-13T21:26:03+00:00",
-   "excerpt": "Former Indian cricketer Sachin Tendulkar has joined the cap table of Hyderabad-based cleantech startup Recykal. The startup did not disclose…"
   },
   {
    "id": "8d54fca78791",
@@ -463,16 +593,6 @@
    "excerpt": "The Internet Licensing Collective, a nonprofit, publisher-led licensing collective for Internet publishers and creators, launched the other day with Yahoo Scout as its first commercial…"
   },
   {
-   "id": "e6526c3d8e4e",
-   "source": "YourStory",
-   "region": "india",
-   "weight": 1,
-   "title": "Razorpay, Sembcorp Green Infra get Sebi nod to float IPOs",
-   "url": "https://yourstory.com/2026/11/razorpay-sembcorp-green-infra-get-sebi-nod-float-ipos",
-   "date": "2026-11-13T12:43:18+00:00",
-   "excerpt": "Razorpay filed draft documents with Sebi via the confidential route in June for an IPO."
-  },
-  {
    "id": "edd7e5b64cdd",
    "source": "Search Engine Roundtable",
    "region": "global",
@@ -553,16 +673,6 @@
    "excerpt": "FMC Media has executed a customised transit media campaign for consumer electronics brand Ubon across six states. The campaign features an 'Innovation Cab' and covers…"
   },
   {
-   "id": "92c026a41718",
-   "source": "YourStory",
-   "region": "india",
-   "weight": 1,
-   "title": "One outage, millions affected. What went wrong at Microsoft?",
-   "url": "https://yourstory.com/2026/11/one-outage-millions-affected-what-went-wrong-at-microsoft",
-   "date": "2026-11-13T10:35:56+00:00",
-   "excerpt": "Problems with Exchange Online spread across Microsoft 365 and external businesses, highlighting how dependent workplaces have become on shared cloud infrastructure."
-  },
-  {
    "id": "42474e78437b",
    "source": "ET BrandEquity",
    "region": "india",
@@ -573,16 +683,6 @@
    "excerpt": "At the ET MarTech+ Summit 2026, leaders from TrueNorth AI and Sitecore discussed how brands can deliver personalised experiences at scale, optimise their content supply…"
   },
   {
-   "id": "31d09c1dd91a",
-   "source": "YourStory",
-   "region": "india",
-   "weight": 1,
-   "title": "Paytm gets RBI's in-principle nod to revive wallet business through new subsidiary",
-   "url": "https://yourstory.com/2026/11/paytm-gets-rbis-in-principle-nod-to-revive-wallet-business-through-new-subsidiary",
-   "date": "2026-11-13T10:20:14+00:00",
-   "excerpt": "Paytm’s subsidiary PPSL has received the RBI’s in-principle approval to issue prepaid instruments such as wallets, but it must submit a system audit report within…"
-  },
-  {
    "id": "deb561fb036d",
    "source": "afaqs",
    "region": "india",
@@ -591,16 +691,6 @@
    "url": "https://www.afaqs.com/people-spotting/dentsu-india-names-imtiyaz-vilatra-as-chief-commercial-officer-12806597",
    "date": "2026-11-13T10:17:26+00:00",
    "excerpt": "Dentsu India has appointed Imtiyaz Vilatra as chief commercial officer, expanding his existing role as chief executive officer of Posterscope. In his new role, Vilatra…"
-  },
-  {
-   "id": "a3f479fef463",
-   "source": "YourStory",
-   "region": "india",
-   "weight": 1,
-   "title": "Startup news and updates: daily roundup (November 13, 2026)",
-   "url": "https://yourstory.com/2026/11/startup-news-and-updates-daily-roundup-november-13-2026",
-   "date": "2026-11-13T10:12:10+00:00",
-   "excerpt": "YourStory presents the daily news roundup from the Indian startup ecosystem and beyond. Here's the roundup for Friday, November 13, 2026."
   },
   {
    "id": "81a952cbc71a",
@@ -631,66 +721,6 @@
    "url": "https://www.afaqs.com/people-spotting/starcom-india-elevates-chirag-chandiramani-to-vice-president-12806304",
    "date": "2026-11-13T09:00:12+00:00",
    "excerpt": "Chirag Chandiramani has been elevated to vice president at Starcom India. He announced the move in a LinkedIn post, writing, “Some Vices are worth holding…"
-  },
-  {
-   "id": "3f09ed294e2b",
-   "source": "afaqs",
-   "region": "india",
-   "weight": 2,
-   "title": "Essential Features to Look for When Choosing Your First Trading App",
-   "url": "https://www.afaqs.com/news/advertorial/essential-features-to-look-for-when-choosing-your-first-trading-app-12806241",
-   "date": "2026-11-13T08:40:38+00:00",
-   "excerpt": "Choosing your first trading app is an important step when you start participating in the stock market. Many apps are available and knowing what features…"
-  },
-  {
-   "id": "3d00bf502d15",
-   "source": "afaqs",
-   "region": "india",
-   "weight": 2,
-   "title": "Amagi partners Golden Times Media to take Chinese channels global",
-   "url": "https://www.afaqs.com/news/media/amagi-partners-golden-times-media-to-take-chinese-channels-global-12806185",
-   "date": "2026-11-13T08:30:41+00:00",
-   "excerpt": "Amagi has partnered with Beijing-based Golden Times Media Technology to take its entertainment channels to international audiences through its global content marketplace, Amagi CONNECT. The…"
-  },
-  {
-   "id": "de45e535da67",
-   "source": "afaqs",
-   "region": "india",
-   "weight": 2,
-   "title": "MBIFL 2027 announces ‘Era of Riddles’ as its central theme",
-   "url": "https://www.afaqs.com/companies/mbifl-2027-announces-era-of-riddles-as-its-central-theme-12806183",
-   "date": "2026-11-13T08:29:58+00:00",
-   "excerpt": "The Mathrubhumi International Festival of Letters (MBIFL) has announced ‘Era of Riddles’ as the theme for its eighth edition, scheduled to take place from January…"
-  },
-  {
-   "id": "dc764f16a19a",
-   "source": "afaqs",
-   "region": "india",
-   "weight": 2,
-   "title": "Spotify launches audiobooks in India with over 3.5 lakh English titles",
-   "url": "https://www.afaqs.com/news/digital/spotify-launches-audiobooks-in-india-with-over-35-lakh-english-titles-12805969",
-   "date": "2026-11-13T07:29:39+00:00",
-   "excerpt": "Spotify has launched audiobooks in India, expanding its platform beyond music and podcasts with a catalogue of more than 3.5 lakh English titles and nearly…"
-  },
-  {
-   "id": "1629bf64f25e",
-   "source": "afaqs",
-   "region": "india",
-   "weight": 2,
-   "title": "Zee Entertainment announces Rs 600 crore share buyback",
-   "url": "https://www.afaqs.com/news/media/zee-entertainment-announces-rs-600-crore-share-buyback-12805904",
-   "date": "2026-11-13T07:00:22+00:00",
-   "excerpt": "Zee Entertainment Enterprises (Z) has approved a share buyback worth up to Rs 600 crore, covering up to 6.59 crore equity shares at Rs 91…"
-  },
-  {
-   "id": "bcf45d76fbe8",
-   "source": "afaqs",
-   "region": "india",
-   "weight": 2,
-   "title": "How Election-Year Economic Policies Historically Affect Gold Loan Volumes",
-   "url": "https://www.afaqs.com/news/advertorial/how-election-year-economic-policies-historically-affect-gold-loan-volumes-12805843",
-   "date": "2026-11-13T06:46:33+00:00",
-   "excerpt": "Election years often bring attention to rural spending, welfare transfers, farm support, employment programmes, taxes, and investment. These measures can alter household liquidity, but their…"
   },
   {
    "id": "9690dba6d5ba",
@@ -731,26 +761,6 @@
    "url": "https://www.socialsamosa.com/interviews/post-diwali-personalisation-turn-buyers-repeat-customers-clevertap-cmo-weighs-12786637",
    "date": "2026-11-13T03:31:37+00:00",
    "excerpt": "Diwali arrived on 8 November; the lamps were put away, and the order dashboards went quiet. A shopper who came for an October markdown is…"
-  },
-  {
-   "id": "2a03ee4a4a4a",
-   "source": "Social Samosa",
-   "region": "india",
-   "weight": 2,
-   "title": "Title Aside: Vinay Joshi on how cricket shaped his approach to leadership",
-   "url": "https://www.socialsamosa.com/title-aside/title-aside-vinay-joshi-cricket-shaped-leadership-12783545",
-   "date": "2026-11-13T02:30:37+00:00",
-   "excerpt": "For someone who once pursued cricket professionally, the transition to marketing brought a different playing field, but some of the lessons remained the same. Today,…"
-  },
-  {
-   "id": "79941bf09393",
-   "source": "Social Samosa",
-   "region": "india",
-   "weight": 2,
-   "title": "Why “Regional” is still too broad a brief",
-   "url": "https://www.socialsamosa.com/guest-post/regional-still-broad-brief-12795075",
-   "date": "2026-11-13T02:30:37+00:00",
-   "excerpt": "After 11 years in brand strategy and communications, I have a simple complaint. Big festivals have become big advertising battlegrounds. Too many brands, too much…"
   }
  ]
 }
