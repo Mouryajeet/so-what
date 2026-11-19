@@ -9,7 +9,7 @@
   "source": "Social Samosa",
   "ok": true,
   "entries": 50,
-  "fresh_new": 43
+  "fresh_new": 50
  },
  {
   "source": "ET BrandEquity",
@@ -39,7 +39,7 @@
   "source": "Meta Newsroom",
   "ok": true,
   "entries": 10,
-  "fresh_new": 4
+  "fresh_new": 6
  },
  {
   "source": "Meta for Business",
@@ -51,19 +51,19 @@
   "source": "Google Ads & Commerce",
   "ok": true,
   "entries": 20,
-  "fresh_new": 1
+  "fresh_new": 2
  },
  {
   "source": "Google Search Central",
   "ok": true,
   "entries": 10,
-  "fresh_new": 1
+  "fresh_new": 0
  },
  {
   "source": "YouTube Official Blog",
   "ok": true,
   "entries": 20,
-  "fresh_new": 2
+  "fresh_new": 3
  },
  {
   "source": "Instagram",
@@ -75,7 +75,7 @@
   "source": "Search Engine Journal",
   "ok": true,
   "entries": 20,
-  "fresh_new": 13
+  "fresh_new": 20
  },
  {
   "source": "Search Engine Roundtable",
