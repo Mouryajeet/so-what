@@ -15,7 +15,7 @@
   "source": "ET BrandEquity",
   "ok": true,
   "entries": 10,
-  "fresh_new": 10
+  "fresh_new": 9
  },
  {
   "source": "MediaNews4U",
@@ -39,7 +39,7 @@
   "source": "Meta Newsroom",
   "ok": true,
   "entries": 10,
-  "fresh_new": 6
+  "fresh_new": 5
  },
  {
   "source": "Meta for Business",
@@ -63,13 +63,13 @@
   "source": "YouTube Official Blog",
   "ok": true,
   "entries": 20,
-  "fresh_new": 3
+  "fresh_new": 2
  },
  {
   "source": "Instagram",
   "ok": true,
   "entries": 368,
-  "fresh_new": 1
+  "fresh_new": 0
  },
  {
   "source": "Search Engine Journal",
