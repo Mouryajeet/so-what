@@ -1,7 +1,307 @@
 {
- "generated": "2026-11-21T04:12:39.669356+00:00",
+ "generated": "2026-11-22T03:23:55.790721+00:00",
  "count": 90,
  "items": [
+  {
+   "id": "970e3e112854",
+   "source": "YourStory",
+   "region": "india",
+   "weight": 1,
+   "title": "Content, AI, empowerment: test your business creativity with Edition 259 of our weekly quiz!",
+   "url": "https://yourstory.com/2026/11/content-ai-empowerment-business-creativity-entrepreneur-quiz",
+   "date": "2026-11-22T03:04:28+00:00",
+   "excerpt": "This insightful feature from YourStory tests and strengthens your business acumen! Here are 5 questions to kick off this 259th quiz. Ready?"
+  },
+  {
+   "id": "9ec6095a4a70",
+   "source": "YourStory",
+   "region": "india",
+   "weight": 1,
+   "title": "How Illumine cracked the US SaaS market from India: AI, GTM, Growth playbook",
+   "url": "https://yourstory.com/2026/11/how-illumine-cracked-the-us-saas-market-india-ai-gtm-growth-playbook",
+   "date": "2026-11-22T02:20:00+00:00",
+   "excerpt": "In this episode of the Prime Venture Partners Podcast, Illumine co-founders Navneet Rastogi and Sourabh Agarwal share how they went from losing nearly 200 customers…"
+  },
+  {
+   "id": "d33bea50fcf2",
+   "source": "Inc42",
+   "region": "india",
+   "weight": 1,
+   "title": "Indian Startup IPO Tracker 2026",
+   "url": "https://inc42.com/features/indian-startup-ipo-tracker-2026/",
+   "date": "2026-11-21T23:31:54+00:00",
+   "excerpt": "Dalal Street emerged as a founder’s paradise in 2025, with 18 Indian startups listing on the bourses and collectively mopping…"
+  },
+  {
+   "id": "36c84f9e6c78",
+   "source": "Inc42",
+   "region": "india",
+   "weight": 1,
+   "title": "Budget 2027: Industry Body BWA Seeks Tax Relief For Crypto Startups",
+   "url": "https://inc42.com/buzz/budget-2027-industry-body-bwa-seeks-tax-relief-for-crypto-startups/",
+   "date": "2026-11-21T21:27:16+00:00",
+   "excerpt": "Industry body Bharat Web3 Association (BWA) has submitted its recommendations to the finance ministry ahead of the upcoming Union Budget…"
+  },
+  {
+   "id": "7f6dccb8b87f",
+   "source": "Inc42",
+   "region": "india",
+   "weight": 1,
+   "title": "Atomberg & Voltas Execute JV Agreement To Build AC Compressors",
+   "url": "https://inc42.com/buzz/atomberg-voltas-execute-jv-agreement-to-build-ac-compressors/",
+   "date": "2026-11-21T20:41:00+00:00",
+   "excerpt": "IPO-bound consumer appliances startup Atomberg has executed a joint venture (JV) agreement with Tata-owned Voltas to manufacture compressors for room…"
+  },
+  {
+   "id": "d13f94b2942a",
+   "source": "Inc42",
+   "region": "india",
+   "weight": 1,
+   "title": "Stalled Withdrawals, Millions Stolen: Inside India’s Crypto Exchange Troubles",
+   "url": "https://inc42.com/buzz/stalled-withdrawals-millions-stolen-inside-indias-crypto-exchange-troubles/",
+   "date": "2026-11-21T18:23:17+00:00",
+   "excerpt": "India’s cryptocurrency exchanges are facing turbulence on multiple fronts, with banking disruptions, regulatory scrutiny, and cybersecurity incidents exposing vulnerabilities across…"
+  },
+  {
+   "id": "94bdaec4c4e4",
+   "source": "Inc42",
+   "region": "india",
+   "weight": 1,
+   "title": "Swish FY26: Revenue Surges Close To ₹50 Cr While Loss Widens To ₹91 Cr",
+   "url": "https://inc42.com/buzz/swish-fy26-revenue-surges-close-to-%e2%82%b950-cr-while-loss-widens-to-%e2%82%b991-cr/",
+   "date": "2026-11-21T16:15:56+00:00",
+   "excerpt": "Quick food delivery startup Swish clocked in a revenue of over ₹50 Cr in the fiscal year 2025-26 (FY26). However,…"
+  },
+  {
+   "id": "748aaeedc167",
+   "source": "Inc42",
+   "region": "india",
+   "weight": 1,
+   "title": "DGGI Probes ₹1 Lakh Cr China-Linked Gaming Transactions",
+   "url": "https://inc42.com/buzz/dggi-probes-%e2%82%b91-lakh-cr-china-linked-gaming-transactions/",
+   "date": "2026-11-21T14:06:36+00:00",
+   "excerpt": "The Directorate General of GST Intelligence (DGGI) conducted searches across Vijayawada and Hyderabad’s Banjara Hills as part of an investigation…"
+  },
+  {
+   "id": "1644d2d9b5e3",
+   "source": "Inc42",
+   "region": "india",
+   "weight": 1,
+   "title": "New-Age Tech Stocks Miss Market Rally This Week, Paytm Sheds 10.8%",
+   "url": "https://inc42.com/buzz/new-age-tech-stocks-miss-market-rally-this-week-paytm-sheds-10-8/",
+   "date": "2026-11-21T14:04:05+00:00",
+   "excerpt": "New-age tech stocks largely missed the rally in Indian equities this week, with only 22 of the 69 stocks under…"
+  },
+  {
+   "id": "3c02fc7ee880",
+   "source": "Inc42",
+   "region": "india",
+   "weight": 1,
+   "title": "Exclusive: Bewakoof Cofounder Prabhkiran Singh Launches AI Shopping Assistant Save8",
+   "url": "https://inc42.com/buzz/bewakoof-cofounder-prabhkiran-singh-launches-ai-shopping-assistant-save8/",
+   "date": "2026-11-21T13:53:04+00:00",
+   "excerpt": "Bewakoof cofounder and former CEO Prabhkiran Singh has launched Save8, an AI-powered shopping assistant that helps consumers compare prices and…"
+  },
+  {
+   "id": "c9fb70562adb",
+   "source": "Inc42",
+   "region": "india",
+   "weight": 1,
+   "title": "IIT Delhi Alumnus’ Startup Sues Apple For ₹1,500 Cr Over NameDrop Patent Infringement",
+   "url": "https://inc42.com/buzz/iit-delhi-alumnus-startup-sues-apple-for-%e2%82%b91500-cr-over-namedrop-patent-infringement/",
+   "date": "2026-11-21T13:43:51+00:00",
+   "excerpt": "What happens when two iPhones are brought close together? Users get to exchange contact details without typing or scanning a…"
+  },
+  {
+   "id": "373d94ea3eaa",
+   "source": "Search Engine Journal",
+   "region": "global",
+   "weight": 2,
+   "title": "WordPress Random Redirects, Branded API Data & CDN Advice – SEO Pulse",
+   "url": "https://www.searchenginejournal.com/seo-pulse-wordpress-random-redirects-branded-api-data-cdn-advice/598173/",
+   "date": "2026-11-21T13:00:00+00:00",
+   "excerpt": "This week's SEO Pulse covers WordPress's random redirect, branded data in Search Console API, Google's CDN guidance, and who controls access for bots and agents."
+  },
+  {
+   "id": "e345f4a90515",
+   "source": "Inc42",
+   "region": "india",
+   "weight": 1,
+   "title": "Sarvam’s Token Factory Raises India’s AI Inference Stakes",
+   "url": "https://inc42.com/features/sarvams-token-factory-raises-indias-ai-inference-stakes/",
+   "date": "2026-11-21T11:57:54+00:00",
+   "excerpt": "Sarvam AI’s latest announcement of its Token Factory has brought a new layer of India’s artificial intelligence (AI) infrastructure ecosystem…"
+  },
+  {
+   "id": "fbeb300a4d14",
+   "source": "YourStory",
+   "region": "india",
+   "weight": 1,
+   "title": "Momentum by Google and YourStory to bring India’s founders, investors, and policymakers into one room in New Delhi",
+   "url": "https://yourstory.com/2026/11/momentum-by-google--yourstory-uniting-indias-startup-ecos",
+   "date": "2026-11-21T11:10:07+00:00",
+   "excerpt": "Momentum by Google, in collaboration with YourStory, puts India’s startup future on one stage, with the people who will build, fund, and shape it."
+  },
+  {
+   "id": "ce6d7cd3be6b",
+   "source": "Inc42",
+   "region": "india",
+   "weight": 1,
+   "title": "Indian Listed New-Age Tech Company Tracker: Market Cap, Revenue & More",
+   "url": "https://inc42.com/features/indian-listed-new-age-tech-company-tracker-market-cap-revenue-more/",
+   "date": "2026-11-21T10:34:59+00:00",
+   "excerpt": "For years, we at Inc42 have tracked the Indian tech startup ecosystem and seen it grow from a kid to…"
+  },
+  {
+   "id": "7dd75dd63e17",
+   "source": "Inc42",
+   "region": "india",
+   "weight": 1,
+   "title": "Fi Money Manages To Cut FY26 Loss By 25%To ₹153.3 Cr, Revenue Sinks 21%",
+   "url": "https://inc42.com/buzz/fi-money-manages-to-cut-fy26-loss-by-25to-%e2%82%b9153-3-cr-revenue-sinks-21/",
+   "date": "2026-11-21T10:18:16+00:00",
+   "excerpt": "Following an extended period of turbulence, fintech startup Fi Money managed to narrow its consolidated net loss for the fiscal…"
+  },
+  {
+   "id": "ec1a667b5c17",
+   "source": "MediaNews4U",
+   "region": "india",
+   "weight": 1,
+   "title": "Vaishali Verma exits Initiative India amid Omnicom Media restructuring",
+   "url": "https://www.medianews4u.com/vaishali-verma-exits-initiative-india-amid-omnicom-media-restructuring/",
+   "date": "2026-11-21T09:13:37+00:00",
+   "excerpt": "Mumbai: Vaishali Verma, CEO of Initiative India, is set to exit the agency to pursue other opportunities, as Omnicom Media India reorganises its operations and…"
+  },
+  {
+   "id": "d6866ddf1a05",
+   "source": "MediaNews4U",
+   "region": "india",
+   "weight": 1,
+   "title": "Rohini Kute moves on from Motilal Oswal Financial Services after 10.5-year stint",
+   "url": "https://www.medianews4u.com/rohini-kute-moves-on-from-motilal-oswal-financial-services-after-10-5-year-stint/",
+   "date": "2026-11-21T09:09:12+00:00",
+   "excerpt": "Mumbai: Rohini Kute has moved on from Motilal Oswal Financial Services Ltd (MOFSL) after a decade-long association with the company. She served as Senior Group…"
+  },
+  {
+   "id": "69569c91c4c9",
+   "source": "MediaNews4U",
+   "region": "india",
+   "weight": 1,
+   "title": "Zee TV unveils ‘Shubh Shagun Shehnaiyan’, starring Fahmaan Khan and Brinda Dahal",
+   "url": "https://www.medianews4u.com/zee-tv-unveils-shubh-shagun-shehnaiyan-starring-fahmaan-khan-and-brinda-dahal/",
+   "date": "2026-11-21T09:00:34+00:00",
+   "excerpt": "Mumbai: Zee TV has unveiled its upcoming fiction show ‘Shubh Shagun Shehnaiyan’, a family drama centred on a mother's aspirations for her four daughters and…"
+  },
+  {
+   "id": "dacc28e4dcc3",
+   "source": "MediaNews4U",
+   "region": "india",
+   "weight": 1,
+   "title": "The House of Meenu Subbiah presents “Gems of Marghazi 2026” An Annual Arts Festival to celebrate heritage through contemporary expressions",
+   "url": "https://www.medianews4u.com/the-house-of-meenu-subbiah-presents-gems-of-marghazi-2026-an-annual-arts-festival-to-celebrate-heritage-through-contemporary-expressions/",
+   "date": "2026-11-21T08:55:11+00:00",
+   "excerpt": "Chennai: Luxury Jewellery Designer Meenu Subbiah is all set to present Gems of Margazhi, an annual arts festival from the House of Meenu Subbiah. A…"
+  },
+  {
+   "id": "de1348311a35",
+   "source": "MediaNews4U",
+   "region": "india",
+   "weight": 1,
+   "title": "Ram Avadh Singh on the creative thinking behind VYNA Electric’s latest brand film",
+   "url": "https://www.medianews4u.com/ram-avadh-singh-on-the-creative-thinking-behind-vyna-electrics-latest-brand-film/",
+   "date": "2026-11-21T08:36:52+00:00",
+   "excerpt": "Mumbai: VYNA Electric is building a unified brand identity across its expanding portfolio of lighting, electrical solutions and home appliances with its latest brand film,…"
+  },
+  {
+   "id": "b070c4721f41",
+   "source": "MediaNews4U",
+   "region": "india",
+   "weight": 1,
+   "title": "UGRO Capital uses Diwali storytelling to recognise MSMEs behind India’s festivities",
+   "url": "https://www.medianews4u.com/ugro-capital-uses-diwali-storytelling-to-recognise-msmes-behind-indias-festivities/",
+   "date": "2026-11-21T08:29:25+00:00",
+   "excerpt": "Mumbai: UGRO Capital, an MSME-focused financial institution, has announced that its Diwali campaign, ‘Roshni Ke Peeche Ki Roshni’, has garnered over 6.9 million views and…"
+  },
+  {
+   "id": "18604b4c1a6c",
+   "source": "YourStory",
+   "region": "india",
+   "weight": 1,
+   "title": "Google announces $5M funding for IIT Kharagpur for advanced AI research",
+   "url": "https://yourstory.com/2026/11/google-announces-5m-funding-for-iit-kharagpur-for-advanced-ai-research",
+   "date": "2026-11-21T08:23:27+00:00",
+   "excerpt": "The funding will support the institute's researchers and students across three core pillars: advanced AI research, educational opportunities, and AI capacity building."
+  },
+  {
+   "id": "32092d9b5935",
+   "source": "MediaNews4U",
+   "region": "india",
+   "weight": 1,
+   "title": "Random Workbook Rebrands as Zeen Media, Expands Brand-Building Services",
+   "url": "https://www.medianews4u.com/random-workbook-rebrands-as-zeen-media-expands-brand-building-services/",
+   "date": "2026-11-21T08:19:35+00:00",
+   "excerpt": "Hyderabad: Creative agency Random Workbook has rebranded as Zeen Media, marking a new phase in its brand-building journey with a refreshed identity, expanded service portfolio…"
+  },
+  {
+   "id": "4f561f60968d",
+   "source": "YourStory",
+   "region": "india",
+   "weight": 1,
+   "title": "Karnataka CM to lead delegation to Japan to explore investments",
+   "url": "https://yourstory.com/2026/11/karnataka-cm-to-lead-delegation-to-japan-to-explore-investments",
+   "date": "2026-11-21T08:19:33+00:00",
+   "excerpt": "Karnataka Chief Minister D K Shivakumar will lead a high-level state government delegation to Japan from November 23 to 25."
+  },
+  {
+   "id": "3a83023fb0fa",
+   "source": "YourStory",
+   "region": "india",
+   "weight": 1,
+   "title": "Design, data, delight: how to get your message across at tech business exhibitions",
+   "url": "https://yourstory.com/2026/11/design-data-delight-tech-business-exhibition-entrepreneur-innovation-photography",
+   "date": "2026-11-21T08:18:38+00:00",
+   "excerpt": "In this photo essay from BTS at the Bangalore International Exhibition Centre, we showcase highlights from the exhibition halls along with insights for innovators."
+  },
+  {
+   "id": "7726f1d6a298",
+   "source": "YourStory",
+   "region": "india",
+   "weight": 1,
+   "title": "Noel Tata seeks Tata Sons board meet recordings",
+   "url": "https://yourstory.com/2026/11/noel-seeks-tata-sons-board-meet-recordings-objects",
+   "date": "2026-11-21T08:17:30+00:00",
+   "excerpt": "Tata Trusts chairman Noel Tata has written to Tata Sons seeking the audio and video recordings of the September 17 board meeting of the holding…"
+  },
+  {
+   "id": "747d72f8ab9c",
+   "source": "MediaNews4U",
+   "region": "india",
+   "weight": 1,
+   "title": "IndiaFirst Life rolls out ‘Azadi Agents’ campaign to recognise insurance agents",
+   "url": "https://www.medianews4u.com/indiafirst-life-rolls-out-azadi-agents-campaign-to-recognise-insurance-agents/",
+   "date": "2026-11-21T08:16:16+00:00",
+   "excerpt": "Mumbai: IndiaFirst Life Insurance Company Limited has launched ‘Azadi Agents’, a new brand campaign celebrating the contribution of insurance agents in helping customers navigate financial…"
+  },
+  {
+   "id": "c4aabf9c7921",
+   "source": "MediaNews4U",
+   "region": "india",
+   "weight": 1,
+   "title": "Massey Ferguson enters micro-drama space with 28-episode YouTube series ‘Mitti Ke Matwale’",
+   "url": "https://www.medianews4u.com/massey-ferguson-enters-micro-drama-space-with-28-episode-youtube-series-mitti-ke-matwale/",
+   "date": "2026-11-21T08:04:52+00:00",
+   "excerpt": "Chennai: Tractors and Farm Equipment Limited (TAFE) has launched ‘Mitti Ke Matwale’, a 28-episode micro-drama series under its iconic tractor brand Massey Ferguson, marking the…"
+  },
+  {
+   "id": "07878275584a",
+   "source": "MediaNews4U",
+   "region": "india",
+   "weight": 1,
+   "title": "Eureka Forbes Highlights Indoor Air Quality Through Its Latest Consumer Campaign",
+   "url": "https://www.medianews4u.com/eureka-forbes-highlights-indoor-air-quality-through-its-latest-consumer-campaign/",
+   "date": "2026-11-21T08:04:29+00:00",
+   "excerpt": "Mumbai: Eureka Forbes Ltd., India’s leading health and hygiene brand, has unveiled its latest campaign, ‘Break Up with Toxic in 10 Mins’, featuring actors Barkha…"
+  },
   {
    "id": "4f29b3c31ed4",
    "source": "ET BrandEquity",
@@ -23,36 +323,6 @@
    "excerpt": "Resilience is anticipated to define India's economy in 2027, even amid conflicting data and trends. Companies may focus more on honesty and transparency, especially in…"
   },
   {
-   "id": "8a4108799260",
-   "source": "MediaNews4U",
-   "region": "india",
-   "weight": 1,
-   "title": "Johnnie Walker Introduces Johnnie & Co. with Charlie Puth-Led Mumbai Music Festival",
-   "url": "https://www.medianews4u.com/johnnie-walker-introduces-johnnie-co-with-charlie-puth-led-mumbai-music-festival/",
-   "date": "2026-11-21T03:33:31+00:00",
-   "excerpt": "Mumbai: Johnnie Walker Luxe Blended Water has launched Johnnie & Co., a flagship intellectual property (IP) for India, bringing together music, sport and fashion through…"
-  },
-  {
-   "id": "c64ed51e0c9c",
-   "source": "Inc42",
-   "region": "india",
-   "weight": 1,
-   "title": "From Dreamteam To Boba Bhai — Indian Startups Raised Over $291 Mn This Week",
-   "url": "https://inc42.com/buzz/from-dreamteam-to-boba-bhai-indian-startups-raised-over-291-mn-this-week/",
-   "date": "2026-11-21T03:30:44+00:00",
-   "excerpt": "Indian startup funding rebounded sharply this week. Homegrown new-age tech ventures cumulatively raised $291.3 Mn between November 16 and November…"
-  },
-  {
-   "id": "def3b8b6ad93",
-   "source": "Inc42",
-   "region": "india",
-   "weight": 1,
-   "title": "EV Startup River Mobility’s FY26 Revenue Jumps 4.2X To ₹432 Cr",
-   "url": "https://inc42.com/buzz/ev-startup-river-mobilitys-fy26-revenue-jumps-4-2x-to-%e2%82%b9432-cr/",
-   "date": "2026-11-21T03:00:53+00:00",
-   "excerpt": "Electric two-wheeler maker River Mobility’s operating revenue jumped 4.2X to ₹432.3 Cr in the financial year ended March 31, 2026…"
-  },
-  {
    "id": "72428e599e09",
    "source": "YourStory",
    "region": "india",
@@ -71,36 +341,6 @@
    "url": "https://yourstory.com/2026/11/what-parents-should-know-about-gta-6-bike-taxis-could-return-to-karnataka",
    "date": "2026-11-21T02:00:00+00:00",
    "excerpt": "GTA 6, which is rated 17+, is intended for a mature audience. Parents must understand the game's content before deciding whether to allow access. In…"
-  },
-  {
-   "id": "85de94c2751b",
-   "source": "Inc42",
-   "region": "india",
-   "weight": 1,
-   "title": "Fintechs Bear The Brunt As Yes Bank Upgrades AI Safeguards",
-   "url": "https://inc42.com/buzz/fintechs-bear-the-brunt-as-yes-bank-upgrades-ai-safeguards/",
-   "date": "2026-11-21T01:04:48+00:00",
-   "excerpt": "Fintech platforms have emerged as an unlikely collateral damage as Yes Bank strengthens its defences against AI-driven cyberattacks. Sources told…"
-  },
-  {
-   "id": "ddc0aa6268d0",
-   "source": "Inc42",
-   "region": "india",
-   "weight": 1,
-   "title": "System Upgrades At Banks Resulting In Withdrawal Delays: CoinDCX",
-   "url": "https://inc42.com/buzz/system-upgrades-at-banks-resulting-in-withdrawal-delays-coindcx/",
-   "date": "2026-11-20T23:13:33+00:00",
-   "excerpt": "Crypto exchange CoinDCX has blamed the ongoing system upgrade at most of its partner banks for delays in processing INR…"
-  },
-  {
-   "id": "717d849dded5",
-   "source": "Inc42",
-   "region": "india",
-   "weight": 1,
-   "title": "Polygon Expands Cross-Border Payments Push, Onboards Nuvera",
-   "url": "https://inc42.com/buzz/polygon-expands-cross-border-payments-push-onboards-nuvera/",
-   "date": "2026-11-20T21:19:07+00:00",
-   "excerpt": "Nuvera has joined Polygon’s Open Money Stack (OMS). With this, the US-based payments infrastructure provider will leverage the L2 blockchain…"
   },
   {
    "id": "c94e241c69d6",
@@ -163,16 +403,6 @@
    "excerpt": "Venture capital funding in Indian startups saw a sharp rise this week, propped up by a couple of deals in the $50-million range."
   },
   {
-   "id": "d7daf7c9e744",
-   "source": "Inc42",
-   "region": "india",
-   "weight": 1,
-   "title": "Anthropic’s Nasdaq Debut Sparks Buying Rush Among Indian Retail Investors",
-   "url": "https://inc42.com/buzz/anthropics-nasdaq-debut-sparks-buying-rush-among-indian-retail-investors/",
-   "date": "2026-11-20T13:42:49+00:00",
-   "excerpt": "Indian retail investors rushed to buy and trade Anthropic shares following its Nasdaq debut yesterday, with the Claude maker drawing…"
-  },
-  {
    "id": "13ab52424fe5",
    "source": "Social Samosa",
    "region": "india",
@@ -191,16 +421,6 @@
    "url": "https://yourstory.com/2026/11/india-ties-for-apac-highest-phishing-rate-employee-awareness-gaps-emerge-kaspersky",
    "date": "2026-11-20T13:05:08+00:00",
    "excerpt": "India and Indonesia share APAC's highest reported phishing rate, but the survey's 70% employee-awareness finding points to a broader weakness in business cyber resilience."
-  },
-  {
-   "id": "2d6e347afe23",
-   "source": "Inc42",
-   "region": "india",
-   "weight": 1,
-   "title": "Supreme Court Upholds Karnataka HC Order Allowing Bike Taxis",
-   "url": "https://inc42.com/buzz/supreme-court-upholds-karnataka-hc-order-allowing-bike-taxis/",
-   "date": "2026-11-20T13:04:13+00:00",
-   "excerpt": "In a major relief for ride-hailing platforms such as Rapido and Uber, the Supreme Court (SC) has dismissed the Karnataka…"
   },
   {
    "id": "e2587269d053",
@@ -253,16 +473,6 @@
    "excerpt": "The Supreme Court has rejected the state government's appeal seeking to reinstate the ban on the service."
   },
   {
-   "id": "7dee596abf33",
-   "source": "Inc42",
-   "region": "india",
-   "weight": 1,
-   "title": "Fireside Ventures’ Changing Guard: Exits, Power Struggle And The Succession Question",
-   "url": "https://inc42.com/features/fireside-ventures-changing-guard-exits-power-struggle-and-the-succession-question/",
-   "date": "2026-11-20T12:45:10+00:00",
-   "excerpt": "It is rare for a prominent Indian VC firm to go through a churn at the top without people on…"
-  },
-  {
    "id": "88b1ed56bee6",
    "source": "Social Samosa",
    "region": "india",
@@ -303,26 +513,6 @@
    "excerpt": "Google has again updated its sexual content policy for Google Ads, like it did just last month. This time it added more detailed examples of…"
   },
   {
-   "id": "a025ba142fe2",
-   "source": "YourStory",
-   "region": "india",
-   "weight": 1,
-   "title": "5 Books from Bill Gates' latest reading list before 2026 end",
-   "url": "https://yourstory.com/2026/11/bill-gates-book-recommendations-2026",
-   "date": "2026-11-20T12:30:00+00:00",
-   "excerpt": "Explore five books recommended by Bill Gates, covering science, history, personal growth, and big ideas worth exploring before 2026 ends."
-  },
-  {
-   "id": "2cb80f200c84",
-   "source": "MediaNews4U",
-   "region": "india",
-   "weight": 1,
-   "title": "VS Raghavendra Rao named Managing Director of Wipro GE Healthcare and President & CEO of GE HealthCare South Asia",
-   "url": "https://www.medianews4u.com/vs-raghavendra-rao-named-managing-director-of-wipro-ge-healthcare-and-president-ceo-of-ge-healthcare-south-asia/",
-   "date": "2026-11-20T12:29:35+00:00",
-   "excerpt": "Bengaluru: Wipro GE Healthcare has appointed VS Raghavendra Rao as Managing Director of Wipro GE Healthcare and President & CEO of GE HealthCare South Asia,…"
-  },
-  {
    "id": "74412f87ab92",
    "source": "Search Engine Roundtable",
    "region": "global",
@@ -343,16 +533,6 @@
    "excerpt": "A new top-level domain (TLD) or generic domain extension for .seo may be coming soon. It was applied for by XYZ under ICANN's new gTLD…"
   },
   {
-   "id": "cb78775afc04",
-   "source": "MediaNews4U",
-   "region": "india",
-   "weight": 1,
-   "title": "Omnicom Media India integrates Interactive Avenues into wider network; Aparna Tadikonda and Priya Iyer elevated as Initiative India COOs",
-   "url": "https://www.medianews4u.com/omnicom-media-india-integrates-interactive-avenues-into-wider-network-aparna-tadikonda-and-priya-iyer-elevated-as-initiative-india-coos/",
-   "date": "2026-11-20T12:03:09+00:00",
-   "excerpt": "Mumbai: Omnicom Media India has announced the integration of Interactive Avenues into its broader organisation, following the progressive movement of its capabilities across the network.…"
-  },
-  {
    "id": "2c2c76412b3b",
    "source": "Social Samosa",
    "region": "india",
@@ -361,26 +541,6 @@
    "url": "https://www.socialsamosa.com/industry-updates/international-money-matters-unveils-new-brand-identity-as-it-marks-25-years-12826951",
    "date": "2026-11-20T12:01:39+00:00",
    "excerpt": "International Money Matters Private Limited has unveiled a new brand identity as it marks 25 years of operations, reflecting its expansion from investment advisory into…"
-  },
-  {
-   "id": "ca149dc36155",
-   "source": "MediaNews4U",
-   "region": "india",
-   "weight": 1,
-   "title": "Mahela Jayawardene appointed Director of Cricket at GMR Sports",
-   "url": "https://www.medianews4u.com/mahela-jayawardene-appointed-director-of-cricket-at-gmr-sports/",
-   "date": "2026-11-20T12:01:01+00:00",
-   "excerpt": "New Delhi: GMR Sports has appointed former Sri Lankan cricketer Mahela Jayawardene as its Director of Cricket. In his new role, Jayawardene will contribute to…"
-  },
-  {
-   "id": "0231421a7d16",
-   "source": "YourStory",
-   "region": "india",
-   "weight": 1,
-   "title": "PIDG invests $11.7M in dry waste recycling company NEPRA",
-   "url": "https://yourstory.com/2026/11/pidg-invests-117m-nepra-dry-waste-recycling-company",
-   "date": "2026-11-20T11:58:34+00:00",
-   "excerpt": "Ahmedabad-based NEPRA has built an integrated waste-management and recycling platform that spans the value chain from waste collection and segregation through to material recovery."
   },
   {
    "id": "c26cd9fb23c9",
@@ -403,96 +563,6 @@
    "excerpt": "Prerna Jha has returned to Jio Studios as Associate Vice President (AVP) – Marketing, marking her second stint with the production house after a brief…"
   },
   {
-   "id": "975bd949801c",
-   "source": "MediaNews4U",
-   "region": "india",
-   "weight": 1,
-   "title": "Pitch To Get Rich Season 2 brings 20 founders and 20 celebrities together, premieres December 4 on JioHotstar",
-   "url": "https://www.medianews4u.com/pitch-to-get-rich-season-2-brings-20-founders-and-20-celebrities-together-premieres-december-4-on-jiohotstar/",
-   "date": "2026-11-20T11:40:58+00:00",
-   "excerpt": "Mumbai: Fashion Entrepreneur Fund (FEF) Studios is set to bring back its business reality show Pitch To Get Rich with its second season, featuring 20…"
-  },
-  {
-   "id": "759945adea89",
-   "source": "Inc42",
-   "region": "india",
-   "weight": 1,
-   "title": "How Barosi Is Building A ₹1,000 Cr ARR Ghee Empire In 10-Minute Economy",
-   "url": "https://inc42.com/startups/how-barosi-is-building-a-%e2%82%b91000-cr-arr-ghee-empire-in-10-minute-economy/",
-   "date": "2026-11-20T11:30:12+00:00",
-   "excerpt": "Ask founders who have stayed away from quick commerce, and most of them will tell you the same thing: it…"
-  },
-  {
-   "id": "82dc9f49d9e9",
-   "source": "MediaNews4U",
-   "region": "india",
-   "weight": 1,
-   "title": "Yuvraj Singh’s Twiddles enters protein snacking market with first protein bar range",
-   "url": "https://www.medianews4u.com/yuvraj-singhs-twiddles-enters-protein-snacking-market-with-first-protein-bar-range/",
-   "date": "2026-11-20T11:27:09+00:00",
-   "excerpt": "Gurugram: Twiddles, the food brand founded by former Indian cricketer Yuvraj Singh, has launched its first range of protein bars as part of its broader…"
-  },
-  {
-   "id": "b478660c36fa",
-   "source": "YourStory",
-   "region": "india",
-   "weight": 1,
-   "title": "7 Bryan Johnson longevity habits anyone can afford",
-   "url": "https://yourstory.com/2026/11/7-bryan-johnson-longevity-habits-anyone-can-afford",
-   "date": "2026-11-20T11:21:53+00:00",
-   "excerpt": "Explore seven affordable longevity habits inspired by Bryan Johnson, from better sleep and daily exercise to balanced eating and stress management."
-  },
-  {
-   "id": "976c0a091674",
-   "source": "MediaNews4U",
-   "region": "india",
-   "weight": 1,
-   "title": "Golden Goose and D’YAVOL X launch exclusive collaboration featuring Shah Rukh Khan and Aryan Khan",
-   "url": "https://www.medianews4u.com/golden-goose-and-dyavol-x-launch-exclusive-collaboration-featuring-shah-rukh-khan-and-aryan-khan/",
-   "date": "2026-11-20T11:10:56+00:00",
-   "excerpt": "Mumbai: Italian luxury brand Golden Goose has partnered with D’YAVOL X, the luxury lifestyle brand co-founded by Shah Rukh Khan, Aryan Khan, Leti Blagoeva and…"
-  },
-  {
-   "id": "ccd97c6cfbf1",
-   "source": "YourStory",
-   "region": "india",
-   "weight": 1,
-   "title": "Spacetech firm SatSure raises Rs 60 Cr from Antariksh fund",
-   "url": "https://yourstory.com/2026/11/spacetech-firm-satsure-raises-rs-60-cr-from-antariksh-fund",
-   "date": "2026-11-20T10:54:50+00:00",
-   "excerpt": "SatSure’s Rs 60 crore investment from India’s dedicated spacetech fund will support satellite development, AI capabilities and global expansion as the country’s private space industry…"
-  },
-  {
-   "id": "583b0c0a961e",
-   "source": "Inc42",
-   "region": "india",
-   "weight": 1,
-   "title": "Centre’s Antariksh VC Fund Leads SatSure’s ₹200 Cr Series B Round",
-   "url": "https://inc42.com/buzz/centres-antariksh-vc-fund-leads-satsures-%e2%82%b9200-cr-series-b-round/",
-   "date": "2026-11-20T10:31:57+00:00",
-   "excerpt": "Spacetech startup SatSure has raised ₹60 Cr from Central government-backed spacetech VC fund, Antariksh Venture Capital Fund (AVCF). The amount…"
-  },
-  {
-   "id": "9253eebbab57",
-   "source": "MediaNews4U",
-   "region": "india",
-   "weight": 1,
-   "title": "NoBroker vs 99acres vs Magicbricks: Comparing Search Experience, Owner Access and Property Services",
-   "url": "https://www.medianews4u.com/nobroker-vs-99acres-vs-magicbricks-comparing-search-experience-owner-access-and-property-services/",
-   "date": "2026-11-20T10:31:06+00:00",
-   "excerpt": "Most property comparisons stop at the homepage. They count listings, take screenshots of the filters and call it a day. But anyone who has actually…"
-  },
-  {
-   "id": "cea3e591efb1",
-   "source": "MediaNews4U",
-   "region": "india",
-   "weight": 1,
-   "title": "Ravi Srivastava joins NDTV as Chief Legal & Regulatory Officer",
-   "url": "https://www.medianews4u.com/ravi-srivastava-joins-ndtv-as-chief-legal-regulatory-officer/",
-   "date": "2026-11-20T10:27:56+00:00",
-   "excerpt": "Mumbai: NDTV has appointed Ravi Srivastava as Chief Legal & Regulatory Officer, strengthening its leadership team as the network focuses on governance, regulatory compliance and…"
-  },
-  {
    "id": "36d35f795859",
    "source": "Social Samosa",
    "region": "india",
@@ -511,16 +581,6 @@
    "url": "https://www.afaqs.com/people-spotting/vs-raghavendra-rao-appointed-president-ceo-of-ge-healthcare-sa-12826466",
    "date": "2026-11-20T09:55:12+00:00",
    "excerpt": "Wipro GE Healthcare has announced the appointment of VS Raghavendra Rao as managing director of Wipro GE Healthcare and president & CEO, GE HealthCare South…"
-  },
-  {
-   "id": "ed633e45def2",
-   "source": "MediaNews4U",
-   "region": "india",
-   "weight": 1,
-   "title": "Tilda strengthens global brand presence with ‘Feel Home with Tilda’ airport campaign",
-   "url": "https://www.medianews4u.com/tilda-strengthens-global-brand-presence-with-feel-home-with-tilda-airport-campaign/",
-   "date": "2026-11-20T09:51:31+00:00",
-   "excerpt": "New Delhi: Global premium rice brand Tilda has launched its airport brand campaign, ‘Feel Home with Tilda’, across Indira Gandhi International Airport in Delhi (Terminal…"
   },
   {
    "id": "fadca1d55b65",
@@ -553,16 +613,6 @@
    "excerpt": "Wella Professionals has launched ‘Make It You’, a global campaign featuring actor Manushi Chhillar in India. The campaign focuses on hair as a form of…"
   },
   {
-   "id": "393353f9d73f",
-   "source": "YourStory",
-   "region": "india",
-   "weight": 1,
-   "title": "Startup news and updates: Daily roundup (November 20, 2026)",
-   "url": "https://yourstory.com/2026/11/startup-news-updates-daily-roundup-november-20-2026",
-   "date": "2026-11-20T09:31:30+00:00",
-   "excerpt": "YourStory presents the daily news roundup from the Indian startup ecosystem and beyond. Here's the roundup for Friday, November 20, 2026."
-  },
-  {
    "id": "16fb5f3b0a9a",
    "source": "Social Samosa",
    "region": "india",
@@ -571,26 +621,6 @@
    "url": "https://www.socialsamosa.com/industry-updates/arjun-a-adobe-director-customer-marketing-india-business-12825911",
    "date": "2026-11-20T09:20:58+00:00",
    "excerpt": "Arjun A has joined Adobe as Director of India customer marketing for its Creativity and Productivity business. He announced the appointment in a LinkedIn post…"
-  },
-  {
-   "id": "602645f2491d",
-   "source": "YourStory",
-   "region": "india",
-   "weight": 1,
-   "title": "GTA 6 is rated 17+: What Indian parents should know before letting their children play",
-   "url": "https://yourstory.com/2026/11/gta-6-is-rated-17-what-indian-parents-should-know-before-letting-their-children-play",
-   "date": "2026-11-20T09:20:38+00:00",
-   "excerpt": "Graphic violence, nudity, sexual content and drug use feature in Grand Theft Auto VI's age-rating disclosures. As the highly anticipated game draws global attention, Indian…"
-  },
-  {
-   "id": "70eb72b1a480",
-   "source": "YourStory",
-   "region": "india",
-   "weight": 1,
-   "title": "Urban Company raises Rs 2,500 Cr through QIP",
-   "url": "https://yourstory.com/2026/11/urban-company-raises-rs-2500-cr-through-qip",
-   "date": "2026-11-20T08:47:50+00:00",
-   "excerpt": "Urban Company's QIP saw participation from domestic and overseas investors. The proceeds of the issue will be used to build the supply ecosystem for on-demand…"
   },
   {
    "id": "56e57d2a7ed8",
@@ -663,16 +693,6 @@
    "excerpt": "Dabur India has launched a new television commercial for Dabur Honey, highlighting its quality checks and use in everyday household consumption. The 30-second film, titled…"
   },
   {
-   "id": "3c039bb2d1f1",
-   "source": "Inc42",
-   "region": "india",
-   "weight": 1,
-   "title": "Flipkart’s BBD Timing Weighs On Walmart International’s Q3 Growth",
-   "url": "https://inc42.com/buzz/flipkarts-bbd-timing-weighs-on-walmart-internationals-q3-growth/",
-   "date": "2026-11-20T07:06:34+00:00",
-   "excerpt": "Flipkart’s Big Billion Days (BBD) sale timing weighed on Walmart International’s sales growth in Q3 FY27, with the segment reporting…"
-  },
-  {
    "id": "f6ae67bf193e",
    "source": "afaqs",
    "region": "india",
@@ -701,16 +721,6 @@
    "url": "https://www.afaqs.com/news/advertising/janhvi-kapoor-fronts-bhima-golds-new-bridal-jewellery-campaign-12825428",
    "date": "2026-11-20T05:15:41+00:00",
    "excerpt": "Bhima Gold has launched ‘Kahani – Bridal Stories by Bhima’, a bridal jewellery campaign featuring actor Janhvi Kapoor. The campaign focuses on the changing preferences…"
-  },
-  {
-   "id": "e1b929ab2397",
-   "source": "Inc42",
-   "region": "india",
-   "weight": 1,
-   "title": "Urban Company Raises ₹2,500 Cr Via QIP, Draws Bids Worth Over ₹15,000 Cr",
-   "url": "https://inc42.com/buzz/urban-company-raises-%e2%82%b92500-cr-via-qip-draws-bids-worth-over-%e2%82%b915000-cr/",
-   "date": "2026-11-20T04:43:19+00:00",
-   "excerpt": "Home services marketplace Urban Company has raised ₹2,500 Cr through a qualified institutional placement (QIP), attracting bids worth over ₹15,000…"
   },
   {
    "id": "2603437db234",
@@ -891,16 +901,6 @@
    "url": "https://www.seroundtable.com/google-search-show-original-results-button-42574.html",
    "date": "2026-11-19T12:31:00+00:00",
    "excerpt": "Google Search is testing a new button in the search results named \"Show original results.\" It seems this button does something similar to the \"Search…"
-  },
-  {
-   "id": "5ba5c1da34c5",
-   "source": "ET BrandEquity",
-   "region": "india",
-   "weight": 2,
-   "title": "Airtel overtakes HDFC Bank to become India's most valuable brand; Meesho tops risers",
-   "url": "https://brandequity.economictimes.indiatimes.com/news/business-of-brands/airtel-overtakes-hdfc-bank-to-become-indias-most-valuable-brand-meesho-tops-risers/135989066",
-   "date": "2026-11-19T11:31:34+00:00",
-   "excerpt": "Kantar's BrandZ 2026 ranking values India's top 100 brands at USD 460.3 billion, down 12 per cent year-on-year, even as global brand value rises 22…"
   }
  ]
 }
