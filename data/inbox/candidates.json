@@ -1,7 +1,267 @@
 {
- "generated": "2026-11-22T03:23:55.790721+00:00",
- "count": 90,
+ "generated": "2026-11-23T03:55:08.978323+00:00",
+ "count": 81,
  "items": [
+  {
+   "id": "809fa56870df",
+   "source": "MediaNews4U",
+   "region": "india",
+   "weight": 1,
+   "title": "JioStar launches AR campaign ‘Your Star Moment’ for World Television Day",
+   "url": "https://www.medianews4u.com/jiostar-launches-ar-campaign-your-star-moment-for-world-television-day/",
+   "date": "2026-11-23T03:45:09+00:00",
+   "excerpt": "Mumbai: JioStar is marking World Television Day with an augmented reality (AR) experience that lets viewers interact with characters from its regional prime-time shows through…"
+  },
+  {
+   "id": "63e5d83c4fdf",
+   "source": "YourStory",
+   "region": "india",
+   "weight": 1,
+   "title": "Far Eye helps reduce Flipkart logistics expenses by 6%",
+   "url": "https://yourstory.com/2026/11/far-eye-helps-reduce-flipkart-logistics-expenses-6-percent",
+   "date": "2026-11-23T03:43:30+00:00",
+   "excerpt": "AI-powered enterprise SaaS Far Eye on Sunday said it has helped e-commerce major Flipkart's B2B cash-and-carry market place, Flipkart Wholesale, slash its logistics spend by…"
+  },
+  {
+   "id": "ee60b79f939c",
+   "source": "Social Samosa",
+   "region": "india",
+   "weight": 2,
+   "title": "Why SuperYou is betting on a 70:30 digital-to-ground mix, with Qcom leading sales",
+   "url": "https://www.socialsamosa.com/marketing-shorts/superyou-betting-70-30-digital-to-ground-mix-qcom-leading-sales-12832794",
+   "date": "2026-11-23T03:36:39+00:00",
+   "excerpt": "Eighty thousand protein wafers, carried around by a small team to a college festival, was how SuperYou's marketing began in earnest. Aditi Jain , Head…"
+  },
+  {
+   "id": "6a180a041591",
+   "source": "MediaNews4U",
+   "region": "india",
+   "weight": 1,
+   "title": "NFDC, Sony Pictures Networks India launch content creator submission initiative at IFFI",
+   "url": "https://www.medianews4u.com/nfdc-sony-pictures-networks-india-launch-content-creator-submission-initiative-at-iffi/",
+   "date": "2026-11-23T03:32:29+00:00",
+   "excerpt": "New Delhi: The National Film Development Corporation (NFDC) and Sony Pictures Networks India (SPNI) have joined hands to open a pitching avenue for writers, creators…"
+  },
+  {
+   "id": "d5c3619f8c82",
+   "source": "Social Samosa",
+   "region": "india",
+   "weight": 2,
+   "title": "Five AI predictions every CMO will be judged against by 2028",
+   "url": "https://www.socialsamosa.com/guest-post/five-ai-predictions-cmo-will-be-judged-against-by-2028-12827288",
+   "date": "2026-11-23T03:30:37+00:00",
+   "excerpt": "Brand films now take days rather than months. The strange thing is how little anyone has changed because of it. Not long ago, a brand…"
+  },
+  {
+   "id": "d1d0c7bb58e8",
+   "source": "Social Samosa",
+   "region": "india",
+   "weight": 2,
+   "title": "After retirement from IPL, what happens to brand Dhoni?",
+   "url": "https://www.socialsamosa.com/experts-speak/after-retirement-ipl-brand-dhoni-12826814",
+   "date": "2026-11-23T03:30:37+00:00",
+   "excerpt": "Mahendra Singh Dhoni's retirement from the IPL marks the end of his on-field association with a tournament in which he has been one of its…"
+  },
+  {
+   "id": "bda79bcddfad",
+   "source": "MediaNews4U",
+   "region": "india",
+   "weight": 1,
+   "title": "Story Digital bags social media mandate for Secret Temptation",
+   "url": "https://www.medianews4u.com/story-digital-bags-social-media-mandate-for-secret-temptation/",
+   "date": "2026-11-23T03:22:40+00:00",
+   "excerpt": "Mumbai: Story Digital has expanded its association with McNROE Consumer Products after being appointed social media agency for Secret Temptation, the fragrance and personal care…"
+  },
+  {
+   "id": "93d0f14943cf",
+   "source": "afaqs",
+   "region": "india",
+   "weight": 2,
+   "title": "The Colgate Case Study: How the brand built trust, one smile at a time",
+   "url": "https://www.afaqs.com/casestudies/the-colgate-case-study-how-the-brand-built-trust-one-smile-at-a-time-12832251",
+   "date": "2026-11-23T03:19:30+00:00",
+   "excerpt": "When Colgate entered India, oral hygiene practices largely relied on traditional methods such as neem sticks, charcoal, salt and homemade powders. With low toothpaste penetration…"
+  },
+  {
+   "id": "3b6429a15061",
+   "source": "ET BrandEquity",
+   "region": "india",
+   "weight": 2,
+   "title": "AI nudges PR practitioners toward Intelligence-Led Communications",
+   "url": "https://brandequity.economictimes.indiatimes.com/news/digital/ai-nudges-pr-practitioners-toward-intelligence-led-communications/136087658",
+   "date": "2026-11-23T03:03:26+00:00",
+   "excerpt": "Artificial intelligence is reshaping the public relations field in India, facilitating rapid and informed decision-making driven by data. Although AI improves efficiency in areas such…"
+  },
+  {
+   "id": "b0f17733a0ea",
+   "source": "ET BrandEquity",
+   "region": "india",
+   "weight": 2,
+   "title": "'New-age brands have a significant advantage in their connection with Gen Z': Redseer’s Anil Kumar",
+   "url": "https://brandequity.economictimes.indiatimes.com/news/business-of-brands/new-age-brands-have-a-significant-advantage-in-their-connection-with-gen-z-redseers-anil-kumar/136087442",
+   "date": "2026-11-23T02:54:29+00:00",
+   "excerpt": "India remains an underserved market for consumer brands, offering significant headroom for new-age businesses to emerge and challenge established players. Having advised numerous new age…"
+  },
+  {
+   "id": "144a0a173aec",
+   "source": "ET BrandEquity",
+   "region": "india",
+   "weight": 2,
+   "title": "Reels got creators hooked. Can Instagram's long-form bet take them further?",
+   "url": "https://brandequity.economictimes.indiatimes.com/news/digital/reels-got-creators-hooked-can-instagrams-long-form-bet-take-them-further/136087128",
+   "date": "2026-11-23T02:40:17+00:00",
+   "excerpt": "Instagram is evolving from short-form content to introducing a 90-minute video format, aiming to attract creators for long-form storytelling like podcasts and extended shows. While…"
+  },
+  {
+   "id": "9b73e93f6008",
+   "source": "Social Samosa",
+   "region": "india",
+   "weight": 2,
+   "title": "Are holiday ads finding their way back to human creativity amid the AI slop?",
+   "url": "https://www.socialsamosa.com/samosa-snippets/holiday-ads-human-creativity-amid-ai-slop-12817473",
+   "date": "2026-11-23T02:30:37+00:00",
+   "excerpt": "While everyone is back from the festive break in India, the ones in our West are about to go on holiday. In between catching up,…"
+  },
+  {
+   "id": "a64dc6507b0a",
+   "source": "Inc42",
+   "region": "india",
+   "weight": 1,
+   "title": "India’s Inference Test, Scaler Founder’s New AI Bet & More",
+   "url": "https://inc42.com/buzz/indias-inference-test-scaler-founders-new-ai-bet-more/",
+   "date": "2026-11-23T02:30:21+00:00",
+   "excerpt": "Inside The Business Of Inference Platforms Sarvam is entering its commercial era with Token Factory. By serving global AI models…"
+  },
+  {
+   "id": "b8279c20cfce",
+   "source": "YourStory",
+   "region": "india",
+   "weight": 1,
+   "title": "VC funding rebounds as startups raise $255M; Women founders driving social change",
+   "url": "https://yourstory.com/2026/11/vc-funding-rebounds-women-founders-social-change",
+   "date": "2026-11-23T02:00:00+00:00",
+   "excerpt": "Venture capital funding in Indian startups saw a sharp rise this week, propped up by a couple of deals in the $50-million range."
+  },
+  {
+   "id": "0d9c2e0c15eb",
+   "source": "Inc42",
+   "region": "india",
+   "weight": 1,
+   "title": "Fintech Stocks Put MDR Dreams On Hold",
+   "url": "https://inc42.com/features/fintech-stocks-put-mdr-dreams-on-hold/",
+   "date": "2026-11-23T00:30:44+00:00",
+   "excerpt": "It seems India’s fintech investors may have counted their chickens too early. The timeline for the much-anticipated merchant discount rate…"
+  },
+  {
+   "id": "9d06d7eb42ec",
+   "source": "Search Engine Roundtable",
+   "region": "global",
+   "weight": 2,
+   "title": "Google StarSearch, AIGC, Zero-History Discovery, Feed Ranking & More",
+   "url": "https://www.seroundtable.com/google-starsearch-42594.html",
+   "date": "2026-11-23T00:30:00+00:00",
+   "excerpt": "Google has posted a new job listing for a Senior Software Engineer, Discover Feed Recommendations. And in that job listing, it lists a number of…"
+  },
+  {
+   "id": "c64447e12c8a",
+   "source": "afaqs",
+   "region": "india",
+   "weight": 2,
+   "title": "3M India sets $100 million consumer business target, bets on deeper household penetration",
+   "url": "https://www.afaqs.com/news/mktg/3m-india-sets-100-million-consumer-business-target-bets-on-deeper-household-penetration-12831716",
+   "date": "2026-11-23T00:00:37+00:00",
+   "excerpt": "3M India is looking to take its consumer business past the $100 million revenue mark over the next few years, building on the 16% growth…"
+  },
+  {
+   "id": "f9de5a28dcd6",
+   "source": "afaqs",
+   "region": "india",
+   "weight": 2,
+   "title": "Why Google Gemini invented a rival only to roast it?",
+   "url": "https://www.afaqs.com/news/advertising/why-google-gemini-invented-a-rival-only-to-roast-it-12831947",
+   "date": "2026-11-22T23:51:37+00:00",
+   "excerpt": "Everyone has a friend like Chatty AI: helpful for about eleven seconds, before the invoice or favour is pitched back to you. In three new…"
+  },
+  {
+   "id": "5e52d58b274d",
+   "source": "afaqs",
+   "region": "india",
+   "weight": 2,
+   "title": "How changing traveller preferences are reshaping hotel marketing",
+   "url": "https://www.afaqs.com/news/guest-article/how-changing-traveller-preferences-are-reshaping-hotel-marketing-12831988",
+   "date": "2026-11-22T23:30:37+00:00",
+   "excerpt": "In my 18 years in hospitality marketing, and now as the Director of Marketing at Sayaji Hotels, I have watched our industry move from printed…"
+  },
+  {
+   "id": "99aaac4de2e2",
+   "source": "Search Engine Roundtable",
+   "region": "global",
+   "weight": 2,
+   "title": "You Can Connect ChatGPT Business Hub With ChatGPT Ad Account",
+   "url": "https://www.seroundtable.com/chatgpt-business-hub-ad-account-42592.html",
+   "date": "2026-11-22T23:24:00+00:00",
+   "excerpt": "Did you know that you can connect your ChatGPT Ads account in your new ChatGPT Business Hub? There is a button at the top of…"
+  },
+  {
+   "id": "899d0f9cd9a7",
+   "source": "Search Engine Roundtable",
+   "region": "global",
+   "weight": 2,
+   "title": "Google Search Profiles Is Rolling Out Globally",
+   "url": "https://www.seroundtable.com/google-search-profiles-global-42591.html",
+   "date": "2026-11-22T22:33:00+00:00",
+   "excerpt": "Google seems to have rolled out Search Profiles globally, this has not yet been announced but now folks outside of the United States, Canada and…"
+  },
+  {
+   "id": "06fa1011be54",
+   "source": "Inc42",
+   "region": "india",
+   "weight": 1,
+   "title": "VinFast To Build Dedicated E-Scooter Assembly Line At TN Plant",
+   "url": "https://inc42.com/buzz/vinfast-to-build-dedicated-e-scooter-assembly-line-at-tn-plant/",
+   "date": "2026-11-22T13:03:22+00:00",
+   "excerpt": "Electric vehicle (EV) giant VinFast is building a dedicated electric two-wheeler production line at its Thoothukudi manufacturing facility in Tamil…"
+  },
+  {
+   "id": "64fed7983d6f",
+   "source": "YourStory",
+   "region": "india",
+   "weight": 1,
+   "title": "CII proposes 15 financial sector reforms to boost long-term growth ambitions",
+   "url": "https://yourstory.com/2026/11/cii-15-financial-sector-reforms-boost-long-term-growth-ambitions",
+   "date": "2026-11-22T12:13:28+00:00",
+   "excerpt": "Industry body CII has proposed 15 financial sector reforms, including a permanent liquidity window for well-governed NBFCs and higher priority sector lending limits for renewable…"
+  },
+  {
+   "id": "bcbb27d50ba8",
+   "source": "afaqs",
+   "region": "india",
+   "weight": 2,
+   "title": "Real Madrid's Perez: UEFA's top matches to stream free in India",
+   "url": "https://www.afaqs.com/news/media/real-madrids-perez-uefas-top-matches-to-stream-free-in-india-12831575",
+   "date": "2026-11-22T11:11:24+00:00",
+   "excerpt": "Real Madrid president Florentino Perez has revealed plans to introduce free streaming of the best matches from UEFA club competitions to Indian viewers, Moneycontrol reports.…"
+  },
+  {
+   "id": "885a57f2b333",
+   "source": "afaqs",
+   "region": "india",
+   "weight": 2,
+   "title": "Koustabh Das moves on from Samsung India after nearly four years",
+   "url": "https://www.afaqs.com/people-spotting/koustabh-das-moves-on-from-samsung-india-after-nearly-four-years-12831484",
+   "date": "2026-11-22T10:21:42+00:00",
+   "excerpt": "Koustabh Das has announced his departure from Samsung India after nearly four years with the company. He shared the update in a LinkedIn post :…"
+  },
+  {
+   "id": "3825242961b5",
+   "source": "Inc42",
+   "region": "india",
+   "weight": 1,
+   "title": "The GTA VI-Sized Hole In Indian Gaming",
+   "url": "https://inc42.com/features/the-gta-vi-sized-hole-in-indian-gaming/",
+   "date": "2026-11-22T05:30:37+00:00",
+   "excerpt": "At midnight on Thursday, when Grand Theft Auto VI finally launched, India was just another market waiting to play the…"
+  },
   {
    "id": "970e3e112854",
    "source": "YourStory",
@@ -103,16 +363,6 @@
    "excerpt": "Bewakoof cofounder and former CEO Prabhkiran Singh has launched Save8, an AI-powered shopping assistant that helps consumers compare prices and…"
   },
   {
-   "id": "c9fb70562adb",
-   "source": "Inc42",
-   "region": "india",
-   "weight": 1,
-   "title": "IIT Delhi Alumnus’ Startup Sues Apple For ₹1,500 Cr Over NameDrop Patent Infringement",
-   "url": "https://inc42.com/buzz/iit-delhi-alumnus-startup-sues-apple-for-%e2%82%b91500-cr-over-namedrop-patent-infringement/",
-   "date": "2026-11-21T13:43:51+00:00",
-   "excerpt": "What happens when two iPhones are brought close together? Users get to exchange contact details without typing or scanning a…"
-  },
-  {
    "id": "373d94ea3eaa",
    "source": "Search Engine Journal",
    "region": "global",
@@ -123,16 +373,6 @@
    "excerpt": "This week's SEO Pulse covers WordPress's random redirect, branded data in Search Console API, Google's CDN guidance, and who controls access for bots and agents."
   },
   {
-   "id": "e345f4a90515",
-   "source": "Inc42",
-   "region": "india",
-   "weight": 1,
-   "title": "Sarvam’s Token Factory Raises India’s AI Inference Stakes",
-   "url": "https://inc42.com/features/sarvams-token-factory-raises-indias-ai-inference-stakes/",
-   "date": "2026-11-21T11:57:54+00:00",
-   "excerpt": "Sarvam AI’s latest announcement of its Token Factory has brought a new layer of India’s artificial intelligence (AI) infrastructure ecosystem…"
-  },
-  {
    "id": "fbeb300a4d14",
    "source": "YourStory",
    "region": "india",
@@ -141,26 +381,6 @@
    "url": "https://yourstory.com/2026/11/momentum-by-google--yourstory-uniting-indias-startup-ecos",
    "date": "2026-11-21T11:10:07+00:00",
    "excerpt": "Momentum by Google, in collaboration with YourStory, puts India’s startup future on one stage, with the people who will build, fund, and shape it."
-  },
-  {
-   "id": "ce6d7cd3be6b",
-   "source": "Inc42",
-   "region": "india",
-   "weight": 1,
-   "title": "Indian Listed New-Age Tech Company Tracker: Market Cap, Revenue & More",
-   "url": "https://inc42.com/features/indian-listed-new-age-tech-company-tracker-market-cap-revenue-more/",
-   "date": "2026-11-21T10:34:59+00:00",
-   "excerpt": "For years, we at Inc42 have tracked the Indian tech startup ecosystem and seen it grow from a kid to…"
-  },
-  {
-   "id": "7dd75dd63e17",
-   "source": "Inc42",
-   "region": "india",
-   "weight": 1,
-   "title": "Fi Money Manages To Cut FY26 Loss By 25%To ₹153.3 Cr, Revenue Sinks 21%",
-   "url": "https://inc42.com/buzz/fi-money-manages-to-cut-fy26-loss-by-25to-%e2%82%b9153-3-cr-revenue-sinks-21/",
-   "date": "2026-11-21T10:18:16+00:00",
-   "excerpt": "Following an extended period of turbulence, fintech startup Fi Money managed to narrow its consolidated net loss for the fiscal…"
   },
   {
    "id": "ec1a667b5c17",
@@ -273,36 +493,6 @@
    "excerpt": "Tata Trusts chairman Noel Tata has written to Tata Sons seeking the audio and video recordings of the September 17 board meeting of the holding…"
   },
   {
-   "id": "747d72f8ab9c",
-   "source": "MediaNews4U",
-   "region": "india",
-   "weight": 1,
-   "title": "IndiaFirst Life rolls out ‘Azadi Agents’ campaign to recognise insurance agents",
-   "url": "https://www.medianews4u.com/indiafirst-life-rolls-out-azadi-agents-campaign-to-recognise-insurance-agents/",
-   "date": "2026-11-21T08:16:16+00:00",
-   "excerpt": "Mumbai: IndiaFirst Life Insurance Company Limited has launched ‘Azadi Agents’, a new brand campaign celebrating the contribution of insurance agents in helping customers navigate financial…"
-  },
-  {
-   "id": "c4aabf9c7921",
-   "source": "MediaNews4U",
-   "region": "india",
-   "weight": 1,
-   "title": "Massey Ferguson enters micro-drama space with 28-episode YouTube series ‘Mitti Ke Matwale’",
-   "url": "https://www.medianews4u.com/massey-ferguson-enters-micro-drama-space-with-28-episode-youtube-series-mitti-ke-matwale/",
-   "date": "2026-11-21T08:04:52+00:00",
-   "excerpt": "Chennai: Tractors and Farm Equipment Limited (TAFE) has launched ‘Mitti Ke Matwale’, a 28-episode micro-drama series under its iconic tractor brand Massey Ferguson, marking the…"
-  },
-  {
-   "id": "07878275584a",
-   "source": "MediaNews4U",
-   "region": "india",
-   "weight": 1,
-   "title": "Eureka Forbes Highlights Indoor Air Quality Through Its Latest Consumer Campaign",
-   "url": "https://www.medianews4u.com/eureka-forbes-highlights-indoor-air-quality-through-its-latest-consumer-campaign/",
-   "date": "2026-11-21T08:04:29+00:00",
-   "excerpt": "Mumbai: Eureka Forbes Ltd., India’s leading health and hygiene brand, has unveiled its latest campaign, ‘Break Up with Toxic in 10 Mins’, featuring actors Barkha…"
-  },
-  {
    "id": "4f29b3c31ed4",
    "source": "ET BrandEquity",
    "region": "india",
@@ -393,14 +583,14 @@
    "excerpt": "Give holiday Google Ads a stronger story, using DAIVID's ranking of 75 Christmas ads where Dogs Trust outscored Amazon."
   },
   {
-   "id": "a7750b938108",
-   "source": "YourStory",
-   "region": "india",
-   "weight": 1,
-   "title": "(Weekly funding roundup Nov 14-20) VC funding bounces back after record low last week",
-   "url": "https://yourstory.com/2026/11/weekly-funding-roundup-nov-14-20-vc-funding-bounces-back-after-record-low-last-week",
-   "date": "2026-11-20T14:23:14+00:00",
-   "excerpt": "Venture capital funding in Indian startups saw a sharp rise this week, propped up by a couple of deals in the $50-million range."
+   "id": "d1d440044121",
+   "source": "Search Engine Roundtable",
+   "region": "global",
+   "weight": 2,
+   "title": "Daily Search Forum Recap: November 20, 2026",
+   "url": "https://www.seroundtable.com/recap-11-20-2026-42583.html",
+   "date": "2026-11-20T15:00:00+00:00",
+   "excerpt": "Here is a recap of what happened in the search forums today..."
   },
   {
    "id": "13ab52424fe5",
@@ -411,16 +601,6 @@
    "url": "https://www.socialsamosa.com/samosa-snippets/many-side-quests-of-gta-vi-marketing-12826840",
    "date": "2026-11-20T13:20:28+00:00",
    "excerpt": "The last time I seriously played GTA was in Vice City, back in my 6th or 7th grade. My cousin and I had a page…"
-  },
-  {
-   "id": "23bee56d45ad",
-   "source": "YourStory",
-   "region": "india",
-   "weight": 1,
-   "title": "India ties for APAC’s highest phishing rate as employee awareness gaps emerge: Kaspersky",
-   "url": "https://yourstory.com/2026/11/india-ties-for-apac-highest-phishing-rate-employee-awareness-gaps-emerge-kaspersky",
-   "date": "2026-11-20T13:05:08+00:00",
-   "excerpt": "India and Indonesia share APAC's highest reported phishing rate, but the survey's 70% employee-awareness finding points to a broader weakness in business cyber resilience."
   },
   {
    "id": "e2587269d053",
@@ -461,16 +641,6 @@
    "url": "https://www.seroundtable.com/google-chatgpt-coupon-codes-42581.html",
    "date": "2026-11-20T12:51:00+00:00",
    "excerpt": "Tis the season for holiday shopping and everyone wants to get a good deal, so you head over to your favorite search or AI engine…"
-  },
-  {
-   "id": "14dfdcb1f62e",
-   "source": "YourStory",
-   "region": "india",
-   "weight": 1,
-   "title": "Bike taxi services in Karnataka get a boost after Supreme Court ruling",
-   "url": "https://yourstory.com/2026/11/bike-taxi-services-karnataka-supreme-court-ruling",
-   "date": "2026-11-20T12:48:10+00:00",
-   "excerpt": "The Supreme Court has rejected the state government's appeal seeking to reinstate the ban on the service."
   },
   {
    "id": "88b1ed56bee6",
@@ -563,6 +733,16 @@
    "excerpt": "Prerna Jha has returned to Jio Studios as Associate Vice President (AVP) – Marketing, marking her second stint with the production house after a brief…"
   },
   {
+   "id": "fcd719bd9116",
+   "source": "afaqs",
+   "region": "india",
+   "weight": 2,
+   "title": "Omnicom Media India integrates Interactive Avenues into wider network; Vaishali Verma exits Initiative",
+   "url": "https://www.afaqs.com/news/advertising/omnicom-media-india-integrates-interactive-avenues-into-wider-network-12826528",
+   "date": "2026-11-20T10:18:39+00:00",
+   "excerpt": "Omnicom Media India has announced the integration of Interactive Avenues into its wider organisation, following the gradual movement of the agency’s capabilities across the network.…"
+  },
+  {
    "id": "36d35f795859",
    "source": "Social Samosa",
    "region": "india",
@@ -623,26 +803,6 @@
    "excerpt": "Arjun A has joined Adobe as Director of India customer marketing for its Creativity and Productivity business. He announced the appointment in a LinkedIn post…"
   },
   {
-   "id": "56e57d2a7ed8",
-   "source": "Social Samosa",
-   "region": "india",
-   "weight": 2,
-   "title": "Levista Coffee refreshes brand identity with new logo and campaign",
-   "url": "https://www.socialsamosa.com/industry-updates/levista-coffee-refreshes-brand-identity-new-logo-and-campaign-12826233",
-   "date": "2026-11-20T08:33:28+00:00",
-   "excerpt": "Levista Coffee, the coffee brand from SLN Group, has introduced a refreshed brand identity and packaging as part of a rebranding exercise centred on its…"
-  },
-  {
-   "id": "c24eb3eb1d0c",
-   "source": "Social Samosa",
-   "region": "india",
-   "weight": 2,
-   "title": "The Hype Studio bags PR and communications mandate for SportzEngage",
-   "url": "https://www.socialsamosa.com/industry-updates/the-hype-studio-pr-and-communications-mandate-sportzengage-12825936",
-   "date": "2026-11-20T08:27:32+00:00",
-   "excerpt": "The Hype Studio has secured the public relations and communications mandate for SportzEngage, an AI-based sports technology company co-founded by former Indian international cricketer Parthiv…"
-  },
-  {
    "id": "8c22ec8c76f4",
    "source": "afaqs",
    "region": "india",
@@ -651,256 +811,6 @@
    "url": "https://www.afaqs.com/people-spotting/kushagra-sharma-joins-balaji-telefilms-as-associate-creative-head-12826096",
    "date": "2026-11-20T08:22:17+00:00",
    "excerpt": "Kushagra Sharma has joined Balaji Telefilms as associate creative head. He announced the move in a LinkedIn post, stating: \" I’m happy to share that…"
-  },
-  {
-   "id": "30e4c748c9b4",
-   "source": "afaqs",
-   "region": "india",
-   "weight": 2,
-   "title": "Akshayakalpa Organic’s new film celebrates the patience behind good food",
-   "url": "https://www.afaqs.com/news/advertising/akshayakalpa-organics-new-film-celebrates-the-patience-behind-good-food-12826031",
-   "date": "2026-11-20T08:17:56+00:00",
-   "excerpt": "Akshayakalpa Organic, an organic dairy brand, has launched a new brand film titled ‘Never Hurry, Never Worry’, told through the story of Rani, a farmer…"
-  },
-  {
-   "id": "335bab894702",
-   "source": "Social Samosa",
-   "region": "india",
-   "weight": 2,
-   "title": "Adobe updates Project Indigo with dedicated Long Exposure mode",
-   "url": "https://www.socialsamosa.com/news-2/adobe-project-indigo-dedicated-long-exposure-mode-12826095",
-   "date": "2026-11-20T08:15:12+00:00",
-   "excerpt": "Adobe has introduced a dedicated Long Exposure mode in its Project Indigo camera app, adding two image-merging options and a live preview feature to help…"
-  },
-  {
-   "id": "405362ca1079",
-   "source": "Social Samosa",
-   "region": "india",
-   "weight": 2,
-   "title": "Meta’s AI agent Muse faces privacy concerns over access to personal messages",
-   "url": "https://www.socialsamosa.com/news-2/meta-ai-agent-muse-privacy-concerns-access-to-personal-messages-12826026",
-   "date": "2026-11-20T07:52:39+00:00",
-   "excerpt": "Meta’s AI agent Muse has raised privacy concerns among employees after it accessed messages from encrypted apps, generated information about transactions users said they had…"
-  },
-  {
-   "id": "5315d69adc64",
-   "source": "afaqs",
-   "region": "india",
-   "weight": 2,
-   "title": "Dabur Honey highlights quality checks in new campaign",
-   "url": "https://www.afaqs.com/news/advertising/dabur-honey-highlights-quality-checks-in-new-campaign-12825812",
-   "date": "2026-11-20T07:07:45+00:00",
-   "excerpt": "Dabur India has launched a new television commercial for Dabur Honey, highlighting its quality checks and use in everyday household consumption. The 30-second film, titled…"
-  },
-  {
-   "id": "f6ae67bf193e",
-   "source": "afaqs",
-   "region": "india",
-   "weight": 2,
-   "title": "Nike signs long-term global partnership with Formula 1",
-   "url": "https://www.afaqs.com/news/mktg/nike-signs-long-term-global-partnership-with-formula-1-12825723",
-   "date": "2026-11-20T06:40:29+00:00",
-   "excerpt": "Nike and Formula 1 have entered a long-term global partnership covering sportswear, product development and fan experiences, with the collaboration set to begin in the…"
-  },
-  {
-   "id": "d904a899e711",
-   "source": "afaqs",
-   "region": "india",
-   "weight": 2,
-   "title": "AAAI names Babita Baruah as Goafest 2027 chairperson",
-   "url": "https://www.afaqs.com/people-spotting/aaai-names-babita-baruah-as-goafest-2027-chairperson-12825541",
-   "date": "2026-11-20T06:15:31+00:00",
-   "excerpt": "The Advertising Agencies Association of India (AAAI) has appointed Babita Baruah, regional client lead at VML and honorary secretary of AAAI, as chairperson of Goafest…"
-  },
-  {
-   "id": "386a87444ecc",
-   "source": "afaqs",
-   "region": "india",
-   "weight": 2,
-   "title": "Janhvi Kapoor fronts Bhima Gold’s new bridal jewellery campaign",
-   "url": "https://www.afaqs.com/news/advertising/janhvi-kapoor-fronts-bhima-golds-new-bridal-jewellery-campaign-12825428",
-   "date": "2026-11-20T05:15:41+00:00",
-   "excerpt": "Bhima Gold has launched ‘Kahani – Bridal Stories by Bhima’, a bridal jewellery campaign featuring actor Janhvi Kapoor. The campaign focuses on the changing preferences…"
-  },
-  {
-   "id": "2603437db234",
-   "source": "afaqs",
-   "region": "india",
-   "weight": 2,
-   "title": "Vijay Sankar takes over as FICCI President for 2026-27",
-   "url": "https://www.afaqs.com/people-spotting/vijay-sankar-takes-over-as-ficci-president-for-2026-27-12825119",
-   "date": "2026-11-20T02:52:28+00:00",
-   "excerpt": "Vijay Sankar, chairman of The Sanmar Group, has taken over as president of the Federation of Indian Chambers of Commerce and Industry (FICCI) for 2026-27,…"
-  },
-  {
-   "id": "0669934e4827",
-   "source": "ET BrandEquity",
-   "region": "india",
-   "weight": 2,
-   "title": "Trending Now: GTA VI and the great brand heist",
-   "url": "https://brandequity.economictimes.indiatimes.com/news/digital/trending-now-gta-vi-and-the-great-brand-heist/136010369",
-   "date": "2026-11-20T02:38:28+00:00",
-   "excerpt": "Grand Theft Auto VI has finally arrived after 13 years, captivating a generation of gamers with its rich world and immersive narratives. The game's cultural…"
-  },
-  {
-   "id": "c496330344ac",
-   "source": "afaqs",
-   "region": "india",
-   "weight": 2,
-   "title": "Pallavi Nayak, Vice President- Marketing & Growth, Wonderla Holidays",
-   "url": "https://www.afaqs.com/afaqs-pause/pallavi-nayak-vice-president-marketing-growth-wonderla-holidays-12825017",
-   "date": "2026-11-20T02:06:20+00:00",
-   "excerpt": ""
-  },
-  {
-   "id": "e80411589627",
-   "source": "Search Engine Journal",
-   "region": "global",
-   "weight": 2,
-   "title": "21 Alternative Search Engines You Can Use Instead of Google",
-   "url": "https://www.searchenginejournal.com/21-alternative-search-engines-you-can-use-instead-of-google/596605/",
-   "date": "2026-11-19T20:00:05+00:00",
-   "excerpt": "Compare 21 Google alternatives for everyday search, private search, AI answers, specialist research, and regional results."
-  },
-  {
-   "id": "801d949fd702",
-   "source": "Search Engine Roundtable",
-   "region": "global",
-   "weight": 2,
-   "title": "Google Search Officially Rolls Out Collapsible Sidebar",
-   "url": "https://www.seroundtable.com/google-search-rolls-out-ai-mode-sidebar-42580.html",
-   "date": "2026-11-19T19:38:00+00:00",
-   "excerpt": "Google is now officially rolling out what it calls the \"collapsible sidebar\" within Google Search. We spotted this a few weeks ago and we called…"
-  },
-  {
-   "id": "9ae46f12420f",
-   "source": "Search Engine Journal",
-   "region": "global",
-   "weight": 2,
-   "title": "Google’s Next Update Won’t Touch The Index, And Nobody Will Announce It",
-   "url": "https://www.searchenginejournal.com/googles-next-update-wont-touch-the-index-and-nobody-will-announce-it/597481/",
-   "date": "2026-11-19T18:00:31+00:00",
-   "excerpt": "Stop matching traffic drops to update dates. Sample what AI assistants say about your company on a schedule and track which facts drift."
-  },
-  {
-   "id": "25d69c629019",
-   "source": "YouTube Official Blog",
-   "region": "global",
-   "weight": 2,
-   "title": "YouTube Creators Win Big at the Inaugural Clio Creator Awards",
-   "url": "https://blog.youtube/news-and-events/youtube-creators-clio-creator-awards-2026/",
-   "date": "2026-11-19T18:00:00+00:00",
-   "excerpt": "Transformative YouTube creators like iShowSpeed and Michelle Khare took home Grand awards at the inaugural Clio Creator Awards."
-  },
-  {
-   "id": "ce521cc34389",
-   "source": "Google Ads & Commerce",
-   "region": "global",
-   "weight": 3,
-   "title": "Build strategic A/B tests to grow your ad performance.",
-   "url": "https://blog.google/products/ads-commerce/ads-decoded-ab-testing/",
-   "date": "2026-11-19T17:00:00+00:00",
-   "excerpt": "Improve your Google Ads performance with expert A/B testing strategies. Master AI Max experiments and Smart Bidding with our latest guide. Listen now."
-  },
-  {
-   "id": "693a9f894d6d",
-   "source": "Search Engine Roundtable",
-   "region": "global",
-   "weight": 2,
-   "title": "Microsoft Confirms Ads Are In AI Overviews On Bing Search",
-   "url": "https://www.seroundtable.com/microsoft-ads-in-ai-overviews-on-bing-42578.html",
-   "date": "2026-11-19T15:24:00+00:00",
-   "excerpt": "Microsoft has just confirmed that it is now shows ads in AI Overviews in Bing Search. We started seeing ads in Bing AI Overviews about…"
-  },
-  {
-   "id": "515f49504790",
-   "source": "Search Engine Journal",
-   "region": "global",
-   "weight": 2,
-   "title": "Your WordPress Sitemap Isn’t Broken – Chrome 158 Has Dropped XSLT",
-   "url": "https://www.searchenginejournal.com/your-wordpress-sitemap-isnt-broken-chrome-158-has-dropped-xslt/597549/",
-   "date": "2026-11-19T15:00:06+00:00",
-   "excerpt": "Chrome dropping XSLT makes WordPress sitemaps display as raw XML. Skip the unnecessary fixes and use Google Search Console to verify crawlers still read them."
-  },
-  {
-   "id": "0d4f059fa3bb",
-   "source": "Search Engine Roundtable",
-   "region": "global",
-   "weight": 2,
-   "title": "Daily Search Forum Recap: November 19, 2026",
-   "url": "https://www.seroundtable.com/recap-11-19-2026-42575.html",
-   "date": "2026-11-19T15:00:00+00:00",
-   "excerpt": "Here is a recap of what happened in the search forums today..."
-  },
-  {
-   "id": "d619305d53d0",
-   "source": "Search Engine Journal",
-   "region": "global",
-   "weight": 2,
-   "title": "WordPress 7.1.5 Security Release Fixes 18 Vulnerabilities",
-   "url": "https://www.searchenginejournal.com/wordpress-7-1-5-security-release-fixes-18-vulnerabilities/598080/",
-   "date": "2026-11-19T14:40:05+00:00",
-   "excerpt": "WordPress 7.1.5 fixes 18 vulnerabilities and adds two security improvements, including an unauthenticated flaw that could lead to RCE."
-  },
-  {
-   "id": "8129ac9ae6e9",
-   "source": "ET BrandEquity",
-   "region": "india",
-   "weight": 2,
-   "title": "Four month old Policybazaar campaign faces criticism over Pulse Polio similarities",
-   "url": "https://brandequity.economictimes.indiatimes.com/news/research/advertising/four-month-old-policybazaar-campaign-faces-criticism-over-pulse-polio-similarities/135994855",
-   "date": "2026-11-19T14:18:16+00:00",
-   "excerpt": "The independent creative and former Dentsu Creative Services, chief creative officer says the campaign featuring Amitabh Bachchan replicates the central idea and execution of Ogilvy's…"
-  },
-  {
-   "id": "8c28247056c2",
-   "source": "Meta Newsroom",
-   "region": "global",
-   "weight": 3,
-   "title": "Meta premieres India’s First Government-Led Microdrama Series on Scams Awareness",
-   "url": "https://about.fb.com/news/2026/11/meta-premieres-indias-first-government-led-microdrama-series-on-scams-awareness/",
-   "date": "2026-11-19T13:05:53+00:00",
-   "excerpt": "Meta has partnered with The Ministry of Information & Broadcasting (MIB), Prasar Bharati, Securities and Exchange Board of India (SEBI), and Indian Cyber Crime Coordination…"
-  },
-  {
-   "id": "3810f4542ce8",
-   "source": "Search Engine Journal",
-   "region": "global",
-   "weight": 2,
-   "title": "WordPress 7.2 Arrives Dec. 8 – Last-Minute Changes Still Being Made",
-   "url": "https://www.searchenginejournal.com/wordpress-7-2-seo-ai-changes/597616/",
-   "date": "2026-11-19T13:00:50+00:00",
-   "excerpt": "WordPress 7.2 plans a default-on random post redirect with no settings toggle. Here's what changes, what can wait, and what's still undecided before release."
-  },
-  {
-   "id": "952385dda8d8",
-   "source": "Search Engine Roundtable",
-   "region": "global",
-   "weight": 2,
-   "title": "Google Search What People Are Saying AI-Generated Emojis",
-   "url": "https://www.seroundtable.com/google-ai-generated-emojis-42569.html",
-   "date": "2026-11-19T12:51:00+00:00",
-   "excerpt": "Google seems to be placing emojis in the AI-generated \"What people are saying\" box in Google Search. Google does show emojis in its search results,…"
-  },
-  {
-   "id": "fe547d9394c0",
-   "source": "Search Engine Roundtable",
-   "region": "global",
-   "weight": 2,
-   "title": "Google Hotel Search Listings With Continue On Google To Book",
-   "url": "https://www.seroundtable.com/google-hotel-continue-on-google-42568.html",
-   "date": "2026-11-19T12:41:00+00:00",
-   "excerpt": "Google seems to be rolling out hotel booking directly on Google in Google Search but through AI Mode. So when you search on Google and…"
-  },
-  {
-   "id": "71c6414c68d4",
-   "source": "Search Engine Roundtable",
-   "region": "global",
-   "weight": 2,
-   "title": "Google Search Tests \"Show Original Results\" Button",
-   "url": "https://www.seroundtable.com/google-search-show-original-results-button-42574.html",
-   "date": "2026-11-19T12:31:00+00:00",
-   "excerpt": "Google Search is testing a new button in the search results named \"Show original results.\" It seems this button does something similar to the \"Search…"
   }
  ]
 }
